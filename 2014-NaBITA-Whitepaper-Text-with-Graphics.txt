@@ -1,0 +1,1085 @@
+THREAT ASSESSMENT IN THE CAMPUS SETTING 
+
+THE NABITA 2014 WHITEPAPER 
+
+BY: BRETT A. SOKOLOW, J.D. 
+W. SCOTT LEWIS, J.D. 
+SAUNDRA K. SCHUSTER, J.D. 
+DANIEL C. SWINTON, J.D., ED.D. 
+
+AND 
+BRIAN J. VAN BRUNT, ED.D. 
+
+This Threat Assessment Tool is being shared as a free resource to update the 
+2009 Whitepaper published by the National Behavioral Intervention Team 
+Association (NaBITA). 
+
+Additional copies are available for free at www.nabita.org 
+
+© NABITA 2014. 
+
+
+THREAT ASSESSMENT IN THE CAMPUS SETTING 
+
+Introduction 
+
+The NaBITA Threat Assessment Tool (“Tool”) was first introduced in 2009. The Tool provides a rubric for 
+behavioral and risk evaluation and helps create a common language for Behavioral Intervention Teams 
+(“BITs”). It now commands respect as the tool most commonly used by campus behavioral intervention and 
+threat assessment teams across the United States (Bennett & Lengerich, 2011; Van Brunt et al, 2012). 
+Given the prominence it has achieved, we at NaBITA are mindful of our ongoing obligation to update the 
+tool, to validate it, and assure that it continues to reflect best practices. While our trainings and our literature 
+describing the use and application of the tool have evolved, this marks the first substantial revision to the 
+tool itself, and an update of the 2009 Whitepaper that first introduced the tool to the field. 
+
+NaBITA's plan for advancing the tool to the next level is three-pronged. First, the graphic and its 
+implementing instructions have been updated. Over the years we have found a disconnect between and 
+frequent misapplication of the concept of identifying a baseline and the NaBITA tool. Our follow-up research 
+showed clearly that this concept was widely misunderstood and misapplied, and it needed to be addressed. 
+You will find that the revision not only clarifies the appropriate use of baseline, but also turns that former 
+weakness into a strength of the tool. You'll also notice more intentional attribution of the scholarly 
+conceptual underpinnings of the tool. The original tool was put together from many sources, and the threat 
+assessment field suffers acutely from layers of derivative works. Our intention was never to omit attribution, 
+but original sources weren't always clear and our tool is far more than the sum of its parts. This revision 
+more accurately demonstrates that our tool is effective because it relies on the validated work of many 
+other experts, who deserve gratitude and credit for their contributions. Their credibility is a core strength of 
+the NaBITA tool, and is now more accurately and fully referenced. 
+
+Second, we have designed, piloted, implemented and validated the Structured Interview for Violence Risk 
+Assessment – 35 (SIVRA-35) as a companion tool to supplement and enhance the initial assessment 
+capacities of the NaBITA Tool. The SIVRA-35 allows teams to in-source the triage assessment of harm to 
+others, which is a critical evolution for campus teams. Behavioral intervention and threat assessment teams 
+have struggled with triage assessment because outside assessments were not available or were too costly, 
+and suffered from insufficient accuracy to meet team needs. NaBITA has come to realize over the last five 
+years that this essential function can be more accurately, affordably and accessibly provided within and by 
+
+2 
+
+
+the team through the SIVRA-35. More importantly, this can be accomplished without the need for 
+
+specialized mental health, forensic training or costly external violence risk assessments. 
+
+Third, we recently published a study cross-validating the NaBITA tool with other respected, empirically 
+validated tools (Van Brunt, 2013). The cross-validation demonstrates that the results provided by the 
+correct use of our tool correlate with other commonly respected and valid tools in the field. Instruction on 
+the tool has been provided by our trainers via a consistent set of fifteen case studies used for five years 
+with all trainee groups, to empirically benchmark attainment of the correct learning outcomes needed to 
+apply the tool accurately. Because the NaBITA tool is free, simpler to learn, and faster to implement and 
+deploy than other tools, we believe colleges and universities will continue to embrace the NaBITA tool as 
+an indispensable aid in accomplishing their behavioral intervention and threat assessment priorities, now 
+with the added assurance of validity1 . 
+
+We expect the SIVRA-35 will quickly attain similar relevance and widespread implementation, but as a 
+more sophisticated tool than the NaBITA Tool, the SIVRA-35 must be licensed and is not available for free. 
+The license is packaged together with a half-day of online or in-person specialized training. The learning 
+curve is not steep, and the cost is moderate. Together, the NaBITA and SIVRA-35 tools offer the more well-
+rounded functionality teams have been asking us for. 
+
+Finally, we want to stress that the NaBITA tool is not and never has been intended to serve as the sole 
+determinate of harmful behavior for college and university behavioral intervention and threat assessment 
+teams. Indeed, it should not be the only tool employed by members of campus teams, but as an initial 
+assessment or triage tool, pared with other valid methodologies identified by your team. Since its creation 
+over five years ago, we have seen immense efficacy when the tool is used appropriately and in tandem 
+with the knowledge, expertise, abilities and tools of team members. 
+
+1 Admittedly, we acknowledge that the study to validate the tool was commissioned by NaBITA and led by one of the authors of 
+this article. It was not independent. Thus, we recommend careful review of the study to assess our methodology and the 
+objectivity of the results. 
+
+3 
+
+
+Law Enforcement and Work Place Violence Threat Assessment Models 
+
+Law enforcement and workplace violence-based threat assessment models have been developed and 
+used successfully by organizations such as the Association of Threat Assessment Professionals 
+(www.atapworldwide.org), the Federal Bureau of Investigations (FBI), U.S. Secret Service, U.S. 
+Department of Education, U.S. Postal Service, ASIS International, the Society for Human Resource 
+Management (SHRM), and the American Society of Mechanical Engineers – Innovative Technologies 
+Institute (ASME-ITI). Several prominent experts in campus violence and workplace threat assessment have 
+also recommended key considerations salient when assessing risk and threat (Meloy, 2000; Turner & 
+Gelles, 2003; Deisinger, Randazzo, O’Neill & Savage, 2008; Meloy, Hoffmann, Guldimann, & James, 2011; 
+O’Toole, 2014; Meloy & Hoffman, 2014). 
+
+These models offer insight into potential criminality and can aid in preventing some forms of campus 
+violence. However, there are some limitations given the criminal-level focus of such models because much 
+of the behavior within the purview of behavioral intervention teams is not criminal in nature. Many of these 
+models also address threats to facilities and organizations; such issues are a component of the campus 
+behavioral intervention and threat assessment setting, but we need a broader approach – one that takes 
+into account the specific challenges of threats and behaviors that are unique to college campuses. 
+Similarly, threat assessment tools designed to avert terrorist acts or assassinations may be reliable, but 
+often are not applicable to the campus culture and broader issues of disruption, hostility and violence on 
+campus. 
+
+Mental Health Assessment 
+
+Colleges and universities historically rely on campus mental health professionals for some measure of 
+insight and analysis of threat/risk assessment. While this function brings a necessary element to the table, 
+it is only part of the overall threat assessment capacity needed. The tools used in the mental health field, 
+often based on clinical diagnosis and psychological personality assessment, are essential for accurately 
+assessing the potential for harm to self, suicidality and larger mental health disorders that may pose 
+concern to the wider campus community (e.g.: delusional thoughts, idiosyncratic behaviors, odd speech or 
+social interactions). However, assessing suicide and mental health disorders are only part of the behavioral 
+
+4 
+
+
+intervention team function. Campus mental health clinicians have been reluctant to dip their proverbial toes 
+into the “harm to others” arena, yet assessing for the potential of harm to others is an essential element in 
+the campus setting. There are some credible tools used by mental health professionals, such as the HCR20 
+by Stephen Hart, the Firestone Assessment of Violent Thoughts (FAVT), the Paulhus Deception Scale 
+(PDS), the HARE Psychopathy Checklist (PCL-R), and the State Trait Anger Expression Inventory (STAXI
+
+
+2) but they rely on a level of deep forensic and diagnostic experience not always available on college 
+campuses. The tools are complex and often require a longer period of assessment, more intensive training 
+and a diversion of resources away from the central goal of college counselors; resources generally more 
+limited to short-term, developmentally appropriate treatment. Additionally, we must acknowledge that not all 
+risks brought to the attention of behavioral intervention and threat assessment teams stem from mental 
+health roots. A more easily obtainable and applicable capacity for assessing the potential of harm to others 
+is needed. Stated differently, the field needs an effective, generalized threat assessment tool that operates 
+outside of a strictly clinical/mental health framework. 
+Going Beyond Our Current Threat Assessment Capacities 
+
+Recognizing the limits of current threat assessment capacities, the authors have developed and honed a 
+multidisciplinary threat assessment Tool that holistically synthesizes three essential bodies of knowledge 
+into a cohesive model. The Tool includes measures for generalized risk (harm to facilities, reputation, 
+operation, finances, etc.), mental and behavioral health-related risk (harm to self) and hostility and violence 
+(harm to others). This article presents the updated NaBITA Tool as a straightforward, easily understood, 
+broadly applicable model of threat assessment specifically designed to be applied by campus behavioral 
+intervention teams.2 
+
+2 The prominent and widespread adoption of the NaBITA Tool does not let teams off the hook for identifying and assuring that 
+the campus can deploy a full range of tools. For example, teams may wish to access additional training on techniques useful to 
+de-escalate affective violence. These are difficult to teach and learn through an article, though they are essential to campus 
+behavioral intervention teams and campus law enforcement who may need to defuse threats when encountered. 
+
+5 
+
+
+Harm to Self: Measures of Mental Health-Related Risk – The “D” Scale 
+
+Behavioral intervention teams need a measure to assess mental health related risks, and for that we 
+created the “D” scale. In doing so, we drew from important and relevant research and writing on the topic of 
+mental health as it relates to violence and threat assessment (Delworth, 1989; Dunkle, Silverstein, & 
+Warner, 2008; Jed Foundation, 2008; 2013; Eells & Rockland-Miller, 2011; Van Brunt, 2013). Today’s “D” 
+scale is very much an update of Ursula Delworth’s (1989) measures, using the current terminology of the 
+mental health field. While this scale may represent some oversimplification compared to the clinical 
+assessment of a mental health professional, it is not a gross oversimplification. It is pared down to the point 
+of easy application without needing a high level of clinical mental health expertise. The “D” scale 
+progressively escalates from Distress to Disturbance to Dysregulation/Decompensation. The definition of 
+each “D” is as follows: 
+
+• Distress 
+– Emotionally troubled (e.g., depressed, manic, unstable) 
+– Impacted by actual/perceived situational stressors and traumatic events 
+• Behavior may subside when stressor is removed or trauma is 
+addressed/processed 
+• May be psychiatrically symptomatic if not coping/adapting to stressors/trauma 
+• Disturbance 
+– Increasing disruptive or concerning behavior; unusual, and/or bizarrely acting 
+• May be destructive, apparently harmful or threatening to self/others 
+• Substance misuse and abuse; self-medication 
+• Dysregulation 
+– Acutely suicidal (thoughts, feelings, expressed intentions and ideations at the level of 
+threat/attempt) 
+– Parasuicidal (extreme self-injurious behavior, eating disorder, personality disorder) 
+• Engaging in risk-taking behaviors (e.g., substance abusing) 
+• Hostile, aggressive, relationally abusive 
+• Deficient in skills that regulate emotion, cognition, self, behavior, and relationships 
+6 
+
+
+• Decompensation (a parallel level of risk to dysregulation) 
+– Profoundly disturbed, detached view of reality 
+– Unable to care for themselves (poor self care/protection/judgment) 
+• At risk of grievous injury or death without an intent to self-harm 
+• Often seen in psychotic breaks 
+Harm to Others: Measuring Hostility and Violence 
+
+The second rubric that contributes to the NaBITA Tool enables campus behavioral intervention and threat 
+assessment teams to assess the potential for harm to others through the lens of hostility and violence. The 
+authors have incorporated the transformative work of Friedrich Glasl into this model to equip behavioral 
+intervention and threat assessment teams with this needed capacity (Glasl, 1999). Dr. Glasl, Professor at 
+Salzburg University in Austria, developed the “Model of Conflict Escalation” 
+(www.mediate.com/articles/jordan.cfm) that offers nine stages of conflict escalation useful in understanding 
+how an individual begins to escalate toward violent action (Glasl, 1999). These stages, along with 
+supportive research from the threat assessment community, provide behavioral intervention and threat 
+assessment teams the tools needed to better understand the potential warning signs that present prior to 
+violence. Hostility and violence occur primarily in one of two ways: through affective violence or targeted 
+violence. 
+
+Affective violence is adrenaline-driven and occurs as part of a biological reaction to aggression, the 
+production of adrenaline, the increase in heart rate, and the resulting body language, behavior and 
+communication indicators that we can identify and measure (Howard, 1999; Grossman, 1996; 2000; Hart, 
+1999; Grossman and Siddle, 2000, Meloy, 2000; 2002; 2006). This hostility is reactive and impulsive in 
+nature and driven by perceived or actual threats or fear. An individual trying to manage and respond to this 
+mixture of vulnerability and physiological responses prompted largely by the release of adrenaline often 
+results in unpredictable, spontaneous, affective violence (Howard, 1999). 
+
+Conversely, targeted or predatory violence is the result of a planned, intent-driven action that we see more 
+commonly exhibited by terrorists and those engaging in rampage violence and school shooting sprees. 
+
+7 
+
+
+Targeted violence involves a more strategic, focused attack and a desire for the individual to complete a 
+mission (Meloy, 2000; 2006; Meloy, Hoffmann, Guldimann, & James, 2011; O’Toole, 2014; Meloy & 
+Hoffman, 2014). This hostility occurs when a person becomes isolated, disconnected, lacks trust and often 
+feels threatened and frustrated by a perceived attack. He plots and plans his revenge and often executes 
+his plans with a militaristic, tactical precision (Meloy, 2000; 2006; Meloy, Hoffmann, Guldimann, & James, 
+2011; O’Toole, 2014; Meloy & Hoffman, 2014). Such violence and hostility typically develop over time, and 
+those planning such attacks often “leak” information about their plans to others (O’Toole, 2014). Such 
+leakage and the nature of stage-by-stage progression provide behavioral intervention and threat 
+assessment teams the potential opportunity to prevent the harm. Targeted violence may be a bit of a 
+misnomer in the sense that the term does not imply a specific target, but instead references threats that are 
+pre-meditated, planned and methodically executed, rather than those that are spontaneous and more likely 
+to emerge without leakage and therefore without warning. 
+
+O’Toole (2014), describes those intending targeted violence as individuals who are “mission-oriented”: 
+Mission-oriented shootings are hardly impulsive crimes. They are well planned and can involve 
+days, weeks, months, even years of making preparations and fantasizing about the crime. The 
+planning is strategic, complex, detailed, and sufficiently secretive to minimize the risk of being 
+detected and maximize the chances for success. The planning does not occur in a vacuum— 
+during this phase, mission-oriented shooters make many decisions, including the types of weapons 
+and ammunition they will use and where to obtain it, the clothes they will wear, the location of the 
+assault, who the victims will be, what they will do at the location, and the date and time of the 
+shooting (p. 9). 
+
+Glasl’s (1999) model of crisis escalation provides a useful framework in understanding the progressive 
+acceleration that occurs with students prior to such a targeted violent episode. To help connect his 
+framework to predatory and targeted violence, additional resources and research will be cited for each of 
+the nine levels identified by Glasl: 
+
+Stage 1: Hardening 
+
+• 
+Description: The individual begins to selectively attend to his or her environment, filtering out 
+material or information that doesn’t line up with his or her beliefs. Stances begin to harden and 
+8 
+
+
+crystalize. There is some oscillation between cooperative and competitive. Examples: A student 
+begins to spend more time studying and joining websites related to white supremacy. He starts 
+talking with others who share his beliefs and filters out those with differing opinions. Another 
+example includes a falling out between those who had common cause, which results in a 
+polarization of perspectives. References: Van Brunt, 2012; Meloy et al., 2011; ASIS and SHRM, 
+2011; Sokolow et al, 2011; Randazzo and Plummer, 2009; Sokolow & Lewis, 2009; ATAP, 2006; 
+Glasl, 1999; Turner and Gelles, 2003; O’Toole, 2002. 
+
+Stage 2: Debate and Contentious Arguments 
+
+• 
+Description: The individual further filters out any conflicting information and adopts polarizing 
+points of view with others. There is a level of aggression threaded throughout all of the interactions 
+and a sliding into extreme positions. There may be some lingering desire to convince others to his 
+or her point of view, but being right supersedes the facts. Differences become polarizing. Example: 
+A student believes the nursing faculty is on a mission to drum him out of the program since he is a 
+male. He argues publicly with them and shares his thoughts with other students. This is the kind of 
+debate you never win, as there is no desire to see eye-to-eye as in academic debate, but to bring 
+about capitulation. References: Van Brunt, 2012; Meloy et al., 2011; ASIS and SHRM, 2011; 
+Sokolow et al, 2011; Randazzo and Plummer, 2009; Sokolow & Lewis, 2009; ATAP, 2006; Glasl, 
+1999; Turner and Gelles, 2003; O’Toole, 2002. 
+Stage 3: Actions not Words 
+
+• 
+Description: There is a fundamental lack of trust and increased suspicion of others. The individual 
+assumes negative intentions from others and debate is deadlocked. There is movement toward 
+non-verbal behaviors to express frustration rather than engaging in conversation. Example: A 
+student gets a letter from Financial Aid telling her the forms needed for this semester are not on 
+file. The student knows she filed the forms and storms into the office, upends a display stand and 
+proceeds to curse at the staff for their incompetence and accuse them of targeting her. 
+References: Van Brunt, 2012; O’Toole and Bowman, 2011; ASIS and SHRM, 2011; Sokolow et al, 
+2011; Sokolow & Lewis, 2009; Turner and Gelles, 2003; Glasl, 1999; O’Toole, 2002. 
+Stage 4: Images and Coalitions 
+
+• 
+Description: The individual has an image of the target and strives to enlist supporters to the 
+cause, often within the peer, social or work group of the target. The individual only sees what 
+confirms existing beliefs that reinforce a villainized target who now has accusations hurled against 
+9 
+
+
+him or her. Physical confrontation and conflict enter the mix, no longer just verbal in arguments. 
+
+Example: A staff member receives a parking ticket and her request for an appeal is denied. This is 
+her fifth parking ticket of the semester for illegal parking. The staff member claims the refusal was 
+racially motivated and writes dozens of letters to the board of regents and forms an underground 
+organization to find ways to make the on-campus parking department’s job more difficult. 
+References: Van Brunt, 2012; Meloy & Hoffman, 2014; Meloy et al., 2011; ASIS and SHRM, 2011; 
+Sokolow et al, 2011; Randazzo and Plummer, 2009; Sokolow & Lewis, 2009; ATAP, 2006; Glasl, 
+1999; Turner and Gelles, 2003; O’Toole, 2002. 
+
+Stage 5: Loss of Face 
+
+• 
+Description: The individual creates an outcast of his target and goes on the offense in order to 
+unmask them in the community as a fraud. In an often public effort at undermining, the target is 
+treated as inhuman and past events are viewed with a new, negative perspective. Example: A 
+student creates a Facebook group called “Everyone hates Terry.” In that group, she posts things 
+about Terry such as “Terry lies to all of her friends, she talks behind your backs constantly. Terry 
+pretends to be a sweet girl, but she is really a drug-addled whore.” She sends group membership 
+invitations to all of her friends and all of Terry’s friends and organizational colleagues. References: 
+Van Brunt, 2012; O’Toole and Bowman, 2011; Sokolow et al, 2011; Sokolow & Lewis, 2009; U.S. 
+Postal Service, 2007; ATAP, 2006; O’Toole, 2002; Glasl, 1999. 
+Stage 6: Strategies of Threat 
+
+• 
+Description: The individual begins to make ultimatums and threats that contain a “do this or else” 
+quality. Might be mere saber rattling, but the individual will attempt to infuse his or her threat with 
+credibility. There are threats of punishment in order to get one’s way. Conflict is escalating and 
+may soon turn violent. Example: A student upset with how campus safety escorted him off campus 
+for handing out brochures about a concealed carry protest calls the officers “monsters” and warns 
+them that he was taught how to deal with monsters during his time in the army. He threatens to 
+return again tomorrow. References: Meloy & Hoffman, 2014; ASIS and SHRM, 2011; Meloy et al., 
+2011; Sokolow et al, 2011; Drysdale et al., 2010; Randazzo and Plummer, 2009; ATAP, 2006; 
+Turner and Gelles, 2003; O’Toole, 2002. 
+Stage 7: Limited Destructive Blows 
+
+• 
+Description: Threats are implemented. There is a high level of objectification and 
+depersonalization toward the target. Deceit and lies are championed and used to cause harm to 
+10 
+
+
+the other party. Damage, while occurring, is limited. Often seen in the form of the acts of an 
+
+accomplice, the pulled punch, or in the acts of the criminal mastermind who orchestrates harm to 
+others but is not the direct instrument of its delivery. Example: A student becomes enraged at his 
+girlfriend and punches the wall next to her and says, “Next time that's your face, bitch.” 
+References: Meloy & Hoffman, 2014; O’Toole and Bowman, 2011; Sokolow et al, 2011; Van 
+Brunt, 2012; U.S. Postal Service, 2007; ATAP, 2006; Turner and Gelles, 2003; O’Toole, 2002; 
+Glasl, 1999. 
+
+Stage 8: Fragmentation of the Enemy 
+
+• 
+Description: The individual is ready to destroy the enemy target. The attack may be physical, 
+material, psychological and/or spiritual. There is a desire to tear down the core of the system so it 
+can no longer be rebuilt. There remains some desire for self-preservation during the attack. This is 
+described as a win-lose attack where the individual keeps his or her own life and destroys his 
+target. Example: A faculty member brings a gun into a meeting with other faculty and demands 
+they get on their knees to beg for their lives. References: Meloy & Hoffman, 2014; O’Toole, 2014; 
+Van Brunt, 2012; Meloy et al., 2011; Sokolow et al, 2011; ATAP, 2006; Turner and Gelles, 2003. 
+Stage 9: Plunging Together into the Abyss 
+
+• 
+Description: The individual is focused and fixated on destroying the target with no regard for his or 
+her own safety. As long as the opponent is dragged into the abyss as well, even self-destruction is 
+a triumph. This is described as a lose-lose attack where intent of the threatener is to destroy the 
+target and him or herself. Examples: Seung-Hui Cho at Virginia Tech, Steven Kazmierczak at 
+Northern Illinois University and Eric Harris and Dylan Klebold from the Columbine High School 
+massacre. References: Meloy and Hoffman, 2014; O’Toole, 2014; Van Brunt, 2012; Meloy et al., 
+2011; O’Toole and Bowman, 2011; ASIS and SHRM, 2011; Sokolow et al, 2011; Randazzo and 
+Plummer, 2009; ATAP, 2006; Turner and Gelles, 2003; O’Toole, 2002; Vossekuil et al., 2000; 
+2002. 
+The stages are outlined here to offer delineated points of opportunity to engage with the individual, 
+intervene and move him or her off the “pathway to violence” as described by Calhoun and Weston (2003) 
+and Fein et al.(1995). Each of the nine stages can be observed and methodically engaged with all 
+necessary resources by law enforcement, campus housing, student conduct, counseling and others trained 
+to identify and intervene. Engagement is intended to prevent the individual from further escalation. 
+
+11 
+
+
+Overall and Generalized Risk – The NCHERM Group 5-Level Risk Rubric 
+
+The third scale informing the NaBITA Tool is a generalized risk rubric originally developed by the National 
+Center for Higher Education Risk Management (NCHERM; now The NCHERM Group, LLC), from an 
+enterprise risk framework. It is applicable to potentially violent and injurious acts, as well as to risks that 
+threaten reputation, facilities, normal operations, finances, etc. This is the central spine of the Threat 
+Assessment Tool, and it is universally applicable. This rubric is specifically designed for campus threat 
+assessment purposes as default measures when the “D” Scale or Violence and Hostility Scales are not 
+applicable, as the overall risk category, and as measures for the enterprise risk areas identified above, 
+which may not include threats of violence or self-harm. Every case examined using the NaBITA Tool should 
+result in a determination of the level of risk as delineated by The NCHERM Group 5-Level Risk Rubric, 
+often working from the “D” Scale or the Hostility and Violence Scale, inward to get an accurate overall risk 
+level. At each encounter with an at-risk individual, teams should update records to reflect the current status 
+on this scale that results from observable behaviors, taking baseline adjustments into account as needed. 
+These criteria are drawn from widely accepted measures including those promulgated by the U.S. 
+Department of Education and the U.S. Secret Service (Cornell, 2010; Pollack, Modzeleski & Rooney, 2008; 
+Drysdale, Modzeleski, & Simons, 2010; Vossekuil, Fein, Reddy, Borum, & Modzeleski, 2000, 2002). The 
+following are the specific definitions of threat levels in the NCHERM Group 5-level generalized risk rubric: 
+
+Mild risk 
+
+• 
+Disruptive or concerning behavior 
+• 
+May or may not show signs of distress 
+• 
+No threat made or present 
+Moderate risk 
+
+• 
+More involved or repeated disruption; behavior more concerning; likely distressed or low-level 
+disturbance if on the “D” Scale 
+• 
+Possible threat made or perceived (often conditional) 
+• 
+Threat is vague and indirect (no identified means or target) 
+• 
+Information about threat or threat itself is inconsistent, implausible or lacks detail 
+• 
+Threat lacks realism 
+• 
+Content of threat suggests threatener is unlikely to carry it out 
+12 
+
+
+Elevated risk 
+
+• 
+Seriously disruptive or concerning incident(s) 
+• 
+Exhibiting clear distress, more likely disturbance, if on the “D” Scale 
+• 
+Threat made or present 
+• 
+Threat is vague and indirect, but may be repeated or shared with multiple reporters 
+• 
+Information about threat or threat itself is inconsistent, implausible or lacks detail 
+• 
+Threat lacks realism, or is repeated with variations 
+• 
+Content of threat suggests threatener is unlikely to carry it out 
+Severe risk 
+
+• 
+Disturbed or advancing to dysregulation 
+• 
+Threat made or present 
+• 
+Threat is vague but direct, or specific but indirect (type of threat v. object of threat) 
+• 
+Likely to be repeated or shared with multiple reporters 
+• 
+Information about threat or threat itself is consistent, plausible or includes increasing detail of a plan 
+(i.e., time, place) 
+• 
+Threat likely to be repeated with consistency (may try to convince listener they are serious) 
+• 
+Content of threat suggests threatener may carry it out 
+Extreme risk 
+
+• 
+Dysregulated (way off his/her baseline) or decompensating 
+• 
+Threat made or present 
+• 
+Threat is concrete (specific and direct) 
+• 
+Likely to be repeated or shared with multiple reporters 
+• 
+Information about threat or threat itself is consistent, plausible or includes specific detail of a plan (i.e., 
+time, place), often with steps already taken 
+• 
+Threat may be repeated with consistency 
+• 
+Content of threat suggests threatener will carry it out (reference to weapons, means, target) 
+• 
+Threatener may appear detached 
+The Chart Graphically Represents the Threat Assessment Tool 
+
+Below on page 20 we have graphically represented our above multidisciplinary model. This page is a color 
+
+coded chart that demonstrates how our three scales for measuring threat (mental and behavioral health-
+
+related risk, generalized risk, and hostility and violence toward others) correspond to and intersect with 
+
+each other. Page 21 is a handy reference chart to using the NCHERM Group 5-level Risk Rubric. This 
+
+chart lists in the left column the levels of risk ranging from mild to extreme, with bullet points summarizing 
+
+how to classify the level of risk of a range of behaviors. The right column lists the range of risk from mild to 
+
+13 
+
+
+extreme, this time suggesting the range of intervention tools available to most behavioral intervention 
+
+teams to address the level of risk identified in the left column. 
+
+Understanding the Chart 
+
+The chart on p. 20 depicts on its far left the “D” scale, referencing the three levels of mental health-related 
+risk used in our model. Each of the terms Distress, Disturbance and Dysregulation/Decompensation is 
+defined, and indicated by escalating levels of threat, from the highest at the top of the chart 
+(Dysregulation/Decompensation) to the lowest at the bottom of the chart (Distress). The column in the 
+middle of the chart depicts the NCHERM Group 5-Level Risk Rubric (Mild, Moderate, Elevated, Severe, 
+Extreme). The far right column illustrates the nine stages of Hostility and Violence. Each is color coded to 
+show its correspondence. 
+
+A distress-level of mental health-related risk corresponds normally to mild-to-moderate levels of 
+generalized risk, and may manifest Violence and Hostility at the escalation phase (Hardening, Debate and 
+Contentious Arguments, Actions not Words, Images and Coalitions, Loss-of-Face). The next level of the “D” 
+scale, disturbance, corresponds normally to the range of generalized risk from moderate-to-elevated-tosevere. 
+Hostility and violence may manifest at this level with some of the lower level measures and most 
+likely with Strategies of Threat. At the highest level of the “D” scale, dysregulation and decompensation 
+usually correspond to the two highest levels of generalized threat – severe and extreme. They can also 
+manifest on the three highest stages of the hostility and violence scale with Limited Destructive Blows, 
+Fragmentation of the Target and finally Plunging Together into the Abyss. 
+
+How Should Behavioral Intervention Teams Use This Tool? 
+
+Using the chart on page 21, the campus behavioral intervention team can measure actual threats posed to 
+the campus. The overall risk level is represented by the NCHERM Group 5-level Risk Rubric for 
+generalized risk (mild to extreme) – a scale that will indicate to the team the overall risk level and 
+appropriate resources, support and intervention techniques to deploy. This scale applies to every case. 
+Regardless of where you start, the goal is to end in the center column. The mental health and 
+hostility/violence measures only apply as overlays when mental health issues and/or signs of hostility are 
+
+14 
+
+
+indicated, but are the best starting point because they are more accurate scales than the generalized, 
+center rubric. Using all of the information reported to the team, background on the student, and any 
+investigation done by the team, the team will then assess baseline and trajectory, assimilate the information 
+and assign a risk level. 
+
+As we mentioned earlier in this Whitepaper, baseline has become a misunderstood concept, and because it 
+is essential to understanding where to start on the tool, and how to get an overall accurate assessment, we 
+want to unpack the concept here. In an environment like a residential college, threat or risk assessment 
+need not be done in a vacuum. Most threats that are directed at the community are directed at it by a 
+member of the community, or someone closely associated with it. Thus, we potentially know a lot about the 
+sources of threats to our communities. Let's mine that data, use it wisely, and assess risk within its context. 
+We have to assume a "normal" baseline for any threatener who we know nothing about. Normal means 
+they are no closer to violence or harm than any other person who makes a similar threat or gesture. For 
+those we know some history or context about, there are two relevant questions: 
+
+1) Is the individual off his baseline? 
+2)Does the individual have an elevated baseline? 
+We think the confusion comes from mingling these two concepts, or not understanding and operationalizing 
+how they are distinct. Let's use the example of someone who self-injures via cutting to better understand 
+the difference. If your BIT learns student Janine is engaged in superficial cutting, it will evaluate her risk 
+according to her behaviors. If your team later learns (a second report, from a different source) that Janine is 
+cutting herself again, and is cutting exactly as before, you will be less concerned by the second report, 
+because it simply confirms the baseline that Janine is someone who cuts. If we knew prior to first hearing 
+about Janine that Janine was not involved in cutting, hearing that she now cuts would represent a change 
+in her baseline. That doesn't affect her level of risk any differently than her cutting behavior represents, but 
+it tells us something about her trajectory that is useful. She has moved off her norm. She will either return to 
+her norm (expected and low risk), maintain the cutting (a higher risk than her norm) or begin to cut more 
+harmfully, or progress to other self-injurious acts (her risk will worsen). We're watching for where her 
+trajectory will go. This is not predictive because we don't know that her trajectory will exacerbate, but we do 
+know with some likelihood what her progression will look like if she continues. When Janine begins to cut 
+more significantly, it will mean more to a BIT because we know the context of where her baseline was, and 
+
+15 
+
+
+how quickly and how far her self-injury has progressed. Being "off your baseline" simply gives context to 
+someone's trajectory toward harm or violence. Nothing more. 
+The second (and separate) consideration is whether Janine has an "elevated baseline." A baseline is 
+elevated when historical or contextual factors about the individual empirically place them closer to the 
+threshold for violence or harm to self or others. "Empirically" means that research or data tells us the 
+history or context is an exacerbating factor, and it must be research based. What are some circumstances 
+that occur in the literature that empirically enhance risk factors for violence or self-harm? Here are some 
+examples: 
+
+• Past alcohol abuse or alcoholism or other drug abuse 
+• Current alcohol use, abuse or alcoholism or drug use, abuse or addiction 
+• PTSD 
+• History of eating disorders 
+• Cutting and other intentional self-injury 
+• Significant suicidal threats or attempts 
+• A history of violence 
+• Etcetera 
+If the historical risk factor or context is not an empirical exacerbating factor in the risk of harm or violence, 
+the baseline is normal (indicated at the bottom of the tool). Conduct your risk assessment as you normally 
+would. If the baseline is elevated, how elevated is it? It depends on the research and what it tells us. It may 
+tell us, using the NaBITA five-level scale (Mild—Moderate—Elevated—Severe—Extreme), not to start an 
+assessment from the bottom of the chart (normal baseline), but to start with the Mild level, Moderate level, 
+Elevated level, or even higher (that is rare). Let's assume that Janine presents with some disrupting 
+behavior and that we know historically that Janine is a cutter whose self-injury is rapidly becoming worse in 
+terms of frequency and severity. And, let's assume just for the sake of discussion, that she is 20% more 
+likely to attempt suicide as a result of her cutting pattern. With a five-level scale, each level is perhaps 20% 
+of the path to violence or harm (it's as much art as science in this regard). Janine's behavior, because of 
+her elevation, has to be evaluated starting 20% closer to harm, which is a baseline of Mild (rather than 
+normal/no risk). Her current disruption would result in a Mild assessment without the baseline elevation, but 
+with one level of baseline elevation, Janine is Moderate on the scale, not Mild, though her present 
+
+16 
+
+
+disrupting behavior would only merit a Mild categorization without the context. 
+
+If the literature said the risk was 30% higher, Janine would score between Moderate and Elevated. If it was 
+40% higher, Janine would score firmly in the Elevated risk category. Thus, a person whose risk is 
+categorized as Elevated by their current behaviors, but who has an elevated baseline by two levels 
+(Moderate) would in fact peg the tool at Extreme (Elevated + two levels = Extreme). Part of the confusion 
+occurs here because of our dual uses of the term "elevated" and "Elevated." To have an elevated baseline 
+could refer to any one of 1-5 levels of elevation. To be Elevated on the chart refers to the third or middle 
+category of risk. One can be Elevated without a baseline elevation, or because of one. Again, baseline 
+elevations only occur where a baseline is known, and that history or context is the basis for a BIT to believe 
+the individual is empirically closer to harm or violence. Teams should assess both being off one's baseline, 
+as evidence of trajectory, and having an elevated baseline, which is essential to accurate assessment in 
+context. One can be both off their baseline (their norm) and have an elevated baseline, but those would 
+normally be caused by totally different factors. 
+
+Let's say someone becomes suddenly delusional from a baseline of previous mental competence. If so, 
+that's a sharp baseline departure. They are off their baseline. This represents an acute concern because of 
+how abruptly and substantially someone has departed from their baseline. A minor departure from baseline 
+is less concerning, but may start to signal a trajectory (leftward or rightward). But, the baseline is not 
+elevated by any historical or contextual factor. Add the fact of a history of substance abuse, and the 
+baseline would then elevates by a category or two, thus combining an advancing trajectory with elevated 
+risk in a worrisome combination. So, step one for using the tool is to assess baseline, and determine 
+trajectory, if you can. Trajectory will be leftward toward the “D” Scale, rightward to the Violence and Hostility 
+Scale, or both (which is a more acute scenario). 
+
+If mental and behavioral health-related issues are most obvious, the trajectory is primarily leftward, and you 
+will classify the student on the “D” scale first, taking into account any baseline elevation you can determine. 
+If violence and hostility to others are most apparent, you’ll want to start on the right, and use the violence 
+and hostility scale. The trajectory is rightward, and you’ll want to assess for any baseline elevations. 
+
+17 
+
+
+If there is no evidence of mental and behavioral health-related risk, violence or hostility, you can directly 
+
+classify the risk according to the 5-level scale, using it as a default or for its enterprise risk application. 
+Assuming that you can start on one (or both) flanks, you then work from the left or right scale to the center, 
+assigning a correct level of overall risk from the rubric (Mild though Extreme). The tool is not meant to be 
+worked all the way across from left to right, or right to left, but when you can, that confirms the strength of 
+your assessment. There may or may not be a corresponding level of mental and behavioral health-related 
+risk to the level of violence and hostility indicated, or a level of violence and hostility that corresponds to the 
+mental and behavioral health risk information you have. The order for teams using the Tool should be: 1) 
+identify the behavior, 2) gather additional data, 3) assess baseline and trajectory, 4) assign a risk level, 
+then 5) determine the institutional intervention/response from the parameters outlined. 
+
+A Word about the SIVRA-35 
+
+The SIVRA-35 is a specialized, structured inventory that is useful to assess individuals who may pose a 
+risk or threat of harm to others, and is designed to be administered by team members. The SIVRA-35 is not 
+designed as a psychological test and it is not designed to assess suicidal students. Mental health expertise 
+is not necessary to utilize it. It is a guided structured interview tool useful for classifying risks into low, 
+moderate, and high categories, and integrates with the NaBITA Tool at the levels of Elevated and above, 
+when those levels result from classification with the hostility and violence scale. Integrating the SIVRA-35 at 
+this point in the assessment process will produce a more accurate risk picture using 35 variables than the 
+NaBITA Tool would, alone. While the SIVRA-35 primarily assists those conducting violence risk 
+assessments through narrative and structured questions, there is a quantitative, numeric scoring key to 
+further assist staff in their decision-making. A single administrator will either ask questions directly to the 
+person being assessed or review relevant incident reports and other forms of data to determine a true or 
+false answer for each item. 
+
+Conclusion 
+
+The authors are dedicated to developing models of behavioral intervention and threat assessment based 
+on adaptation of academic research, clinical studies, law enforcement reports, governmental investigations 
+and campus best practices. It is the authors’ goal in this article to stimulate current interest in and concern 
+
+18 
+
+
+on campuses regarding risk and threat assessment and to offer practical models for addressing campus 
+safety. Ultimately, the model offered in this paper may enhance early intervention, foster thoughtful and 
+timely response, and avert tragedy. If you find this paper to be of use, please share it with your colleagues. 
+Copies may be downloaded at www.nabita.org. 
+
+NaBITA --A Membership Association for Higher Education 
+
+While visiting the NaBITA website, the authors encourage you to explore its resources and to consider 
+becoming NaBITA members. NaBITA serves as a membership association, a clearinghouse for resources, 
+and a mechanism for sharing and disseminating best practices for an emerging field. You will find that 
+NaBITA membership is distinguished by a strong value-inclusive philosophy. NaBITA membership offers a 
+community, a newsletter and a listserv. NaBITA’s members experience added value through discounted 
+and free webinars and seminars, free or discounted registration to the NaBITA Annual Conference, access 
+to a Q&A panel of behavioral intervention experts, and behavioral intervention documentation, including a 
+member library of more than 300 practical documents and resources on successful models, sample 
+policies, protocols, training tools and tabletop exercises. www.nabita.org 
+
+19 
+
+
+20 
+
+
+CLASSIFYING RISK INTERVENTION TOOLS TO ADDRESS RISK 
+AS CLASSIFIED CLASSIFYING RISK INTERVENTION TOOLS TO ADDRESS RISK 
+AS CLASSIFIED 
+MILD RISK 
+•Disruptive or concerning behavior 
+•May or may not show signs of distress 
+•No threat made or present 
+MODERATE RISK 
+• 
+More involved or repeated disruption. Behavior more 
+concerning. Likely distressed or low-level disturbance 
+• 
+Possible threat made or perceived 
+• 
+Threat is vague and indirect 
+• 
+Information about threat or threat itself is inconsistent, 
+implausible or lacks detail 
+• 
+Threat lacks realism 
+• 
+Content of threat suggests threatener is unlikely to carry it out 
+ELEVATED RISK 
+
+• 
+Seriously disruptive incident(s) 
+• 
+Exhibiting clear distress, more likely disturbance 
+• 
+Threat made or present 
+• 
+Threat is vague and indirect, but may be repeated or shared with 
+multiple reporters 
+• 
+Information about threat or threat itself is inconsistent, 
+implausible or lacks detail 
+• 
+Threat lacks realism, or is repeated with variations 
+• 
+Content of threat suggests threatener is unlikely to carry it out 
+SEVERE RISK 
+• 
+Disturbed or advancing to dysregulation 
+• 
+Threat made or present 
+• 
+Threat is vague, but direct, or specific but indirect 
+• 
+Likely to be repeated or shared with multiple reporters 
+• 
+Information about threat or threat itself is consistent, plausible or 
+includes increasing detail of a plan (time, place, etc.) 
+• 
+Threat likely to be repeated with consistency (may try to 
+convince listener they are serious) 
+• 
+Content of threat suggests threatener may carry it out. 
+EXTREME RISK 
+• 
+Dysregulated (way off baseline) or medically disabled 
+• 
+Threat made or present 
+• 
+Threat is concrete (specific or direct) 
+• 
+Likely to be repeated or shared with multiple reporters 
+• 
+Information about threat or threat itself is consistent, plausible or 
+includes specific detail of a plan (time, place, etc.), often with 
+steps already taken 
+• 
+Threat may be repeated with consistency 
+• 
+Content of threat suggests threatener will carry it out (reference 
+to weapons, means, target) 
+MILD RISK 
+• 
+Meeting/soft referral by reporter 
+• 
+Behavioral contract or treatment plan with student or employee 
+(if at all, only for low-level concerns) 
+• 
+Student conduct or HR response 
+• 
+Evaluate for disability services and/or medical referral 
+• 
+Conflict management, mediation, problem-solving 
+MODERATE RISK 
+!Meeting/soft referral by reporter 
+• 
+Behavioral contract or treatment plan with student (if at all, 
+only for low-level concerns) 
+• 
+Student conduct or HR response 
+• 
+Evaluate for disability services and/or medical referral 
+• 
+Conflict management, mediation (not if physical/violent), 
+problem-solving 
+ELEVATED RISK 
+• 
+Meeting/mandated referral by reporter 
+• 
+Evaluate parental/guardian notification 
+• 
+Obtain and assess medical/educational and other records 
+• 
+Consider interim suspension if applicable 
+• 
+Evaluate for disability services and/or medical referral 
+• 
+Consider referral or mandated assessment 
+• 
+SIVRA-35 or other violence risk assessment 
+SEVERE RISK 
+• 
+Possible confrontation by reporter 
+• 
+Parental/guardian notification obligatory unless contraindicated 
+• 
+Evaluate emergency notification to others 
+(FERPA/HIPAA/Clery) 
+• 
+No behavioral contracts 
+• 
+Recommend interim suspension or paid/unpaid leave 
+• 
+Possible liaison with local police to compare red flags 
+• 
+Deploy mandated assessment 
+• 
+Evaluate for medical/psychological transport 
+• 
+Evaluate for custodial hold 
+• 
+Consider voluntary/involuntary medical withdrawal 
+• 
+Direct threat eligible 
+• 
+Law enforcement response 
+• 
+Consider eligibility for involuntary commitment 
+• 
+SIVRA-35 or other violence risk assessment 
+EXTREME RISK 
+• 
+Possible confrontation by reporter 
+• 
+Parental/guardian notification obligatory unless contraindicated 
+• 
+Evaluate emergency notification to others 
+• 
+No behavioral contracts 
+• 
+Interim suspension or paid/unpaid leave if applicable 
+• 
+Possible liaison with local police to compare red flags 
+• 
+Too serious for mandated assessment 
+• 
+Evaluate for medical/psychological transport 
+• 
+Evaluate for custodial hold 
+• 
+Initiate voluntary/involuntary medical withdrawal 
+• 
+Law enforcement response 
+• 
+Consider eligibility for involuntary commitment 
+21 
+
+
+References 
+
+ASIS International and the Society for Human Resource Management. (2011). Workplace Violence 
+Prevention and Intervention: American National Standard. Retrieved from 
+
+www.asisonline.org/guidelines/published.htm 
+
+Association of Threat Assessment Professionals (ATAP). (2006). Risk Assessment Guideline Elements for 
+Violence (RAGE-V): Considerations for Assessing the Risk of Future Violent Behavior. ATAP. 
+
+Bennett, L. & Lengerich, S. (2011). A Strategic Review of Campus Behavioral Intervention and Threat 
+Assessment Practices. Presented at the 2011 NaBITA conference. 
+
+Calhoun, T., & Weston, S. (2003). Contemporary threat management. San Diego: Specialized Training 
+Services. 
+
+Cornell, D. (2010). Threat Assessment in College Settings. Change (pp. 8–15). Retrieved from 
+www.changemag.org. 
+
+Deisinger, G., Randazzo, M., O'Neill, D. & Savage, J. (2008). The Handbook of campus threat assessment 
+and management teams. Applied Risk Management, LLC. 
+
+Delworth, U. (Ed.). (1989). Dealing with the behavioral and psychological problems of students; new 
+directions for student services. San Francisco: Jossey-Bass. 
+
+Dunkle, J. H., Silverstein, Z. B., & Warner S. L. (2008). Managing violent and other troubling students: 
+The role of threat assessment teams on campus. Journal of College and University Law, 34 (3): 
+585–636. 
+
+Drysdale, D., Modzeleski, W. & Simons, A. (2010). Campus Attacks: Targeted violence affecting institutions 
+of higher education. Washington, DC: United States Secret Service, United States Department of 
+Education and Federal Bureau of Investigation. 
+
+Eells, G.T. & Rockland-Miller, H.S. (2011). Assessing and responding to disturbed and disturbing students: 
+Understanding the role of administrative teams in institutions of higher education. Journal of 
+College Student Psychotherapy, 25:8-23. 
+
+22 
+
+
+Fein, R., Vossekuil, B., Holden, G. (1995). Threat assessment: An approach to prevent targeted violence 
+(NCJ 155000). Washington, DC: U.S. Dept. of Justice, Office of Justice Programs, National 
+Institute of Justice. 
+
+Glasl, F. (1999). Confronting Conflict: A First-Aid Kit for Handling Conflict. A. Stroud, UK: Hawthorn Press. 
+
+Grossman, D. (1996). On Killing: The Psychological Cost of Learning to Kill in War and Society. New York: 
+Back Bay Books. 
+
+Grossman, D. (2000). Aggression and Violence, in Oxford Companion to American Military History. New 
+York : Oxford University Press. 
+
+Grossman, D. & Siddle, B. (2000). Psychological effects of combat, in Encyclopedia of Violence, Peace and 
+Conflict. Kidlington, UK: Academic Press. 
+
+Jed Foundation (2008). Student mental health and the law: A resource for institutions of higher education. 
+New York: Jed Foundation. 
+
+Jed Foundation. (2013). Balancing Safety and Support on Campus: A guide to campus teams. NY, NY: Jed 
+Foundation. 
+
+Howard, P.J. (1999). The Owner’s Manual for The Brain: Everyday Applications from Mind-Brain Research 
+(2nd Ed.). Bard Press. 
+
+Laur, D. (2002). The Anatomy of Fear and How it Relates to Survival Skills Training. Cleveland, OH: 
+Integrated Street Combatives. 
+
+Meloy, J. (2000). Violence risk and threat assessment: A practical guide for mental health and criminal 
+justice professionals. San Diego, CA: Specialized Training Services. 
+
+Meloy, J. R. (2002). “Stalking and violence,” in J. Boon & L. Sheridan (Eds), Stalking and Psychosexual 
+Obsession: Psychological Perspectives for Prevention, Policing, and Treatment . West Sussex, 
+UK: John Wiley & Sons, Ltd. 
+
+Meloy, J. R. (2006). The empirical basis and forensic application of affective and predatory violence. 
+Australian and New Zealand Journal of Psychiatry, 40: 539–47. 
+
+23 
+
+
+Meloy, J., Hoffmann, J., Guldimann, A. and James, D. (2011). The Role of Warning Behaviors in Threat 
+Assessment: An Exploration and Suggested Typology. Behavioral Sciences and the Law. 
+
+Meloy, R. & Hoffman, J. (Ed.s) (2014). The International Handbook of Threat Assessment. New York, NY: 
+Oxford University Press. 
+
+O’Neill, D., Fox, J., Depue, R. & Englander, E. (2008). Campus violence prevention and response: Best 
+practices for Massachusetts’s higher education. Applied Risk Management. 
+
+O’Toole, M. E. (2002). The school shooter: A threat assessment perspective. FBI. 
+
+O’Toole, M. E. (2014). The Mission-Oriented Shooter: A New Type of Mass Killer. Journal of Violence and 
+Gender, 1(1), pp. 9-10. 
+
+O’Toole, M. E. & Bowman, A. (2011). Dangerous Instincts: How gut feelings betray. New York: Hudson 
+Street Press. 
+
+Randazzo, M. and Plummer, E. (2009). Implementing Behavioral Threat Assessment on Campus: A 
+Virginia Tech Demonstration Project. Printed by Virginia Polytechnic Institute and State University, 
+Blacksburg, Va. 
+
+Sokolow, B. & Lewis, S. (2009). 2nd Generation Behavioral Intervention Best Practices. Malvern, PA : The 
+National Center for Higher Education Risk Management. 
+
+Sokolow, B., Lewis, S., Manzo, L., Schuster, S., Byrnes, J. & Van Brunt, B. (2011). Book on BIT. A 
+publication of the National Behavioral Intervention Team Association (www.nabita.org). 
+
+Pollack, W., Modzeleski, W. & Rooney, G. (2008). Prior Knowledge of Potential School-based Violence: 
+Information students learn may prevent a targeted attack. Washington, DC: United States Secret 
+Services, and United States Department of Education. 
+
+Turner, J. and Gelles, M. (2003). Threat Assessment: A Risk Management Approach. NY, NY: Routledge. 
+
+United States Postal Service (2007). Threat Assessment Team Guide, 
+
+www.nalc.org/depart/cau/pdf/manuals/Pub%20108%20(2007-Mar).pdf 
+Van Brunt, B., Sokolow, B., Lewis, W., & Schuster, S. (2012). NaBITA Team Survey. www.nabita.org 
+Van Brunt, B. (2012). Ending Campus Violence: New Approaches to Prevention. New York, NY: Routledge. 
+
+24 
+
+
+Van Brunt, B. (2013). A Comparative Analysis of Threat and Risk Assessment Measures in the Journal of 
+Campus Behavioral Intervention (J-BIT), 1. Publication of the National Behavioral Intervention 
+Team Association (NaBITA). 
+
+Vossekuil, B., Fein, R., Reddy, M., Borum, R. & Modzeleski, W. (2002). The Final Report and Findings 
+of the Safe School Initiative: Implications for the prevention of school attacks in the United States. 
+Retrieved fromhttp://www.secretservice.gov/ntac/ssi_fi nal_report.pdf 
+
+Vossekuil, B., Reddy, M., Fein, R., Borum, R. & Modzeleski, M. (2000). USSS Safe School Initiative: An 
+Interim Report on the Prevention of Targeted Violence in Schools. Washington, DC: US Secret 
+Service, National Threat Assessment Center. 
+
+25 
+
+
+About the Authors 
+
+Brett. A. Sokolow, J.D. is the founder, president and CEO of The NCHERM Group, LLC, a national 
+multidisciplinary risk management consulting and law firm with more than 3,000 clients. He is recognized 
+for his national leadership on systems-level solutions for safer schools and campuses. He serves frequently 
+as an expert witness in all manner of litigation affecting colleges and universities. The NCHERM Group, 
+LLC serves as outside counsel/advisor to more than fifty colleges and universities. Sokolow is a risk 
+management consultant, author, editor, and higher education attorney licensed by the PA and NJ bars. In 
+addition, Sokolow serves as Executive Director of both NaBITA (The National Behavioral Intervention Team 
+Association) and ATIXA (The Association of Title IX Administrators). He serves on the advisory boards of 
+the National Hazing Prevention Collaborative and the NASPA Enough is Enough Campaign. 
+
+W. Scott Lewis, J.D. is a partner with The NCHERM Group, LLC. He serves as the 2013-2014 president of 
+NaBITA, and is a founder and advisory board member of ATIXA. He is one of the most in-demand higher 
+education risk management consultants in the country. Previously, he served as Special Advisor to Saint 
+Mary’s College in South Bend, IN and as AVP at the University of South Carolina, where he was also on 
+faculty. Scott’s faculty work includes courses in Education, Law, Political Science, and Business. Scott 
+brings over twenty years of experience as a student affairs administrator, faculty member, and consultant in 
+higher education. He is a frequent keynote and plenary speaker, nationally recognized for his work on 
+Behavioral Intervention/Threat Assessment Teams for students in crisis and distress, Title VII and Title IX 
+issues. He is noted as well for his work in the area of classroom management and dealing with disruptive 
+students (and parents), and has trained thousands of faculty and staff members. He presents regularly 
+throughout the country, assisting colleges and universities with legal, judicial, and risk management issues, 
+as well as policy development and implementation. He serves as an author and editor in a number of areas 
+including legal issues in higher education, campus safety and student development, campus conduct board 
+training, and other higher education issues. 
+Saundra Schuster, J.D is a Partner with The NCHERM Group, LLC. She is a founder and advisory board 
+member of ATIXA, and a past-president and advisory board member of NaBITA. Ms. Schuster is a 
+recognized expert in preventive and civil rights law for education, notably in the fields of: Sexual Misconduct 
+and Harassment; First Amendment and Campus Access, Americans with Disabilities Act and Disability 
+Issues; Risk Management and Liability Issues; Behavior Intervention and Threat Assessment; Student 
+
+26 
+
+
+Discipline and Campus Conduct; Intellectual Property and Employment Issues. Ms. Schuster’s higher 
+education legal experience includes serving: as the General Counsel for Sinclair Community College; as 
+Senior Assistant Attorney General for the State of Ohio, representing public colleges and universities; and 
+as the Associate General Counsel for the University of Toledo. In addition to her legal work in higher 
+education, Ms. Schuster has over twenty-five years experience in college administration and teaching. Prior 
+to practicing law, she was the Associate Dean of Students at The Ohio State University and served as a 
+faculty member at The Ohio State University, Miami University and Columbus State Community College. 
+She provided rape crisis counseling and served on the Board of Directors of Planned Parenthood of Butler 
+County. 
+
+Daniel Swinton, J.D., Ed.D. is the Senior Executive Vice President of The NCHERM Group, LLC. Prior to 
+his work with The NCHERM Group, he served as Assistant Dean and Director of Student Conduct and 
+Academic Integrity at Vanderbilt University. Daniel is a frequent presenter at national conferences and on 
+campuses on issues such as sexual misconduct on college campuses, legal issues in student affairs and 
+higher education, civil rights investigations, student conduct policies and procedures, mediation and 
+behavioral intervention teams. He also performs external investigations for colleges and universities. Daniel 
+serves as Associate Executive Director of ATIXA (The Association for Title IX Administrators) and on the 
+Advisory Board of NaBITA (National Behavioral Intervention Team Association). He has also served on the 
+Board for the Association for Student Conduct Administration (ASCA), having served as its President in 
+2011-2012. 
+
+Brian Van Brunt, Ed.D. is the Senior Vice President for Professional Program Development with The 
+NCHERM Group, LLC. He is past-president of the American College Counseling Association (ACCA), the 
+president-elect of the National Behavioral Intervention Team Association (NaBITA), editor for The Journal 
+of Campus Behavioral Intervention (J-BIT) and the managing editor for Student Affairs eNews (SAeN). He 
+has a doctoral degree in counseling supervision and education from the University of Sarasota/Argosy and 
+a master’s degree in counseling and psychological services from Salem State University. Brian has served 
+as the director of counseling at New England College and Western Kentucky University. He is the author of 
+several books including: Ending Campus Violence: New Approaches in Prevention and A Faculty Guide to 
+Addressing Disruptive and Dangerous Behavior in the Classroom. Dr. Van Brunt recently developed the 
+Structured Interview for Violence Risk Assessment (SIVRA-35), a starting place for law enforcement, 
+
+27 
+
+
+clinical staff and administrators to conduct a more standardized research-based violence risk assessment 
+with individuals determined to be at an increased risk. 
+
+© 2014 THE NCHERM GROUP, LLC, 
+AND THE NATIONAL BEHAVIORAL INTERVENTION TEAM ASSOCIATION. 
+ALL RIGHTS RESERVED. 
+
+28 
+
+

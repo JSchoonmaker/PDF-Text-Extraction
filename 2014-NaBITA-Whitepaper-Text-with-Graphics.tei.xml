@@ -1,0 +1,968 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 /Users/kelvinchristian/Desktop/Project/Python/Nsv/pdf_extraction/_lib/grobid-0.6.1/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="institution">National Behavioral Intervention Team Association (NaBITA)</orgName>
+							</affiliation>
+						</author>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.6.1" ident="GROBID" when="2020-09-26T01:26+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Introduction</head><p>The NaBITA Threat Assessment Tool ("Tool") was first introduced in 2009. The Tool provides a rubric for behavioral and risk evaluation and helps create a common language for Behavioral Intervention Teams <ref type="bibr">("BITs")</ref>. It now commands respect as the tool most commonly used by campus behavioral intervention and threat assessment teams across the United States <ref type="bibr" target="#b2">(Bennett &amp; Lengerich, 2011;</ref><ref type="bibr" target="#b33">Van Brunt et al, 2012)</ref>.</p><p>Given the prominence it has achieved, we at NaBITA are mindful of our ongoing obligation to update the tool, to validate it, and assure that it continues to reflect best practices. While our trainings and our literature describing the use and application of the tool have evolved, this marks the first substantial revision to the tool itself, and an update of the 2009 Whitepaper that first introduced the tool to the field.</p><p>NaBITA's plan for advancing the tool to the next level is three-pronged. First, the graphic and its implementing instructions have been updated. Over the years we have found a disconnect between and frequent misapplication of the concept of identifying a baseline and the NaBITA tool. Our follow-up research showed clearly that this concept was widely misunderstood and misapplied, and it needed to be addressed.</p><p>You will find that the revision not only clarifies the appropriate use of baseline, but also turns that former weakness into a strength of the tool. You'll also notice more intentional attribution of the scholarly conceptual underpinnings of the tool. The original tool was put together from many sources, and the threat assessment field suffers acutely from layers of derivative works. Our intention was never to omit attribution, but original sources weren't always clear and our tool is far more than the sum of its parts. This revision more accurately demonstrates that our tool is effective because it relies on the validated work of many other experts, who deserve gratitude and credit for their contributions. Their credibility is a core strength of the NaBITA tool, and is now more accurately and fully referenced.</p><p>Second, we have designed, piloted, implemented and validated the Structured Interview for Violence Risk  as a companion tool to supplement and enhance the initial assessment capacities of the NaBITA Tool. The SIVRA-35 allows teams to in-source the triage assessment of harm to others, which is a critical evolution for campus teams. Behavioral intervention and threat assessment teams have struggled with triage assessment because outside assessments were not available or were too costly, and suffered from insufficient accuracy to meet team needs. NaBITA has come to realize over the last five years that this essential function can be more accurately, affordably and accessibly provided within and by the team through the SIVRA-35. More importantly, this can be accomplished without the need for specialized mental health, forensic training or costly external violence risk assessments.</p><p>Third, we recently published a study cross-validating the NaBITA tool with other respected, empirically validated tools <ref type="bibr" target="#b35">(Van Brunt, 2013)</ref>. The cross-validation demonstrates that the results provided by the correct use of our tool correlate with other commonly respected and valid tools in the field. Instruction on the tool has been provided by our trainers via a consistent set of fifteen case studies used for five years with all trainee groups, to empirically benchmark attainment of the correct learning outcomes needed to apply the tool accurately. Because the NaBITA tool is free, simpler to learn, and faster to implement and deploy than other tools, we believe colleges and universities will continue to embrace the NaBITA tool as an indispensable aid in accomplishing their behavioral intervention and threat assessment priorities, now with the added assurance of validity 1 .</p><p>We expect the SIVRA-35 will quickly attain similar relevance and widespread implementation, but as a more sophisticated tool than the NaBITA Tool, the SIVRA-35 must be licensed and is not available for free.</p><p>The license is packaged together with a half-day of online or in-person specialized training. The learning curve is not steep, and the cost is moderate. Together, the NaBITA and SIVRA-35 tools offer the more wellrounded functionality teams have been asking us for.</p><p>Finally, we want to stress that the NaBITA tool is not and never has been intended to serve as the sole determinate of harmful behavior for college and university behavioral intervention and threat assessment teams. Indeed, it should not be the only tool employed by members of campus teams, but as an initial assessment or triage tool, pared with other valid methodologies identified by your team. Since its creation over five years ago, we have seen immense efficacy when the tool is used appropriately and in tandem with the knowledge, expertise, abilities and tools of team members. Institute (ASME-ITI). Several prominent experts in campus violence and workplace threat assessment have also recommended key considerations salient when assessing risk and threat <ref type="bibr" target="#b19">(Meloy, 2000;</ref><ref type="bibr" target="#b32">Turner &amp; Gelles, 2003;</ref><ref type="bibr" target="#b5">Deisinger, Randazzo, O'Neill &amp; Savage, 2008;</ref><ref type="bibr" target="#b22">Meloy, Hoffmann, Guldimann, &amp; James, 2011;</ref><ref type="bibr" target="#b26">O'Toole, 2014;</ref><ref type="bibr" target="#b23">Meloy &amp; Hoffman, 2014)</ref>.</p><p>These models offer insight into potential criminality and can aid in preventing some forms of campus violence. However, there are some limitations given the criminal-level focus of such models because much of the behavior within the purview of behavioral intervention teams is not criminal in nature. Many of these models also address threats to facilities and organizations; such issues are a component of the campus behavioral intervention and threat assessment setting, but we need a broader approach -one that takes into account the specific challenges of threats and behaviors that are unique to college campuses.</p><p>Similarly, threat assessment tools designed to avert terrorist acts or assassinations may be reliable, but often are not applicable to the campus culture and broader issues of disruption, hostility and violence on campus.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Mental Health Assessment</head><p>Colleges and universities historically rely on campus mental health professionals for some measure of insight and analysis of threat/risk assessment. While this function brings a necessary element to the table, it is only part of the overall threat assessment capacity needed. The tools used in the mental health field, often based on clinical diagnosis and psychological personality assessment, are essential for accurately assessing the potential for harm to self, suicidality and larger mental health disorders that may pose concern to the wider campus community (e.g.: delusional thoughts, idiosyncratic behaviors, odd speech or social interactions). However, assessing suicide and mental health disorders are only part of the behavioral intervention team function. Campus mental health clinicians have been reluctant to dip their proverbial toes into the "harm to others" arena, yet assessing for the potential of harm to others is an essential element in the campus setting. There are some credible tools used by mental health professionals, such as the HCRby Stephen Hart, the Firestone Assessment of Violent Thoughts (FAVT), the Paulhus Deception Scale (PDS), the HARE Psychopathy Checklist (PCL-R), and the State Trait Anger Expression Inventory (STAXI-2) but they rely on a level of deep forensic and diagnostic experience not always available on college campuses. The tools are complex and often require a longer period of assessment, more intensive training and a diversion of resources away from the central goal of college counselors; resources generally more limited to short-term, developmentally appropriate treatment. Additionally, we must acknowledge that not all risks brought to the attention of behavioral intervention and threat assessment teams stem from mental health roots. A more easily obtainable and applicable capacity for assessing the potential of harm to others is needed. Stated differently, the field needs an effective, generalized threat assessment tool that operates outside of a strictly clinical/mental health framework.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Going Beyond Our Current Threat Assessment Capacities</head><p>Recognizing the limits of current threat assessment capacities, the authors have developed and honed a multidisciplinary threat assessment Tool that holistically synthesizes three essential bodies of knowledge into a cohesive model. The Tool includes measures for generalized risk (harm to facilities, reputation, operation, finances, etc.), mental and behavioral health-related risk (harm to self) and hostility and violence (harm to others). This article presents the updated NaBITA Tool as a straightforward, easily understood, broadly applicable model of threat assessment specifically designed to be applied by campus behavioral intervention teams. Harm to Self: Measures of Mental Health-Related Risk -The "D" Scale Behavioral intervention teams need a measure to assess mental health related risks, and for that we created the "D" scale. In doing so, we drew from important and relevant research and writing on the topic of mental health as it relates to violence and threat assessment <ref type="bibr" target="#b6">(Delworth, 1989;</ref><ref type="bibr" target="#b7">Dunkle, Silverstein, &amp; Warner, 2008;</ref><ref type="bibr">Jed Foundation, 2008;</ref><ref type="bibr" target="#b9">Eells &amp; Rockland-Miller, 2011;</ref><ref type="bibr" target="#b35">Van Brunt, 2013</ref>). Today's "D" scale is very much an update of Ursula <ref type="bibr" target="#b6">Delworth's (1989)</ref>  The second rubric that contributes to the NaBITA Tool enables campus behavioral intervention and threat assessment teams to assess the potential for harm to others through the lens of hostility and violence. The authors have incorporated the transformative work of Friedrich Glasl into this model to equip behavioral intervention and threat assessment teams with this needed capacity <ref type="bibr" target="#b11">(Glasl, 1999)</ref>. Dr. Glasl, Professor at Salzburg University in Austria, developed the "Model of Conflict Escalation" (www.mediate.com/articles/jordan.cfm) that offers nine stages of conflict escalation useful in understanding how an individual begins to escalate toward violent action <ref type="bibr" target="#b11">(Glasl, 1999)</ref>. These stages, along with supportive research from the threat assessment community, provide behavioral intervention and threat assessment teams the tools needed to better understand the potential warning signs that present prior to violence. Hostility and violence occur primarily in one of two ways: through affective violence or targeted violence.</p><p>Affective violence is adrenaline-driven and occurs as part of a biological reaction to aggression, the production of adrenaline, the increase in heart rate, and the resulting body language, behavior and communication indicators that we can identify and measure <ref type="bibr" target="#b17">(Howard, 1999;</ref><ref type="bibr" target="#b12">Grossman, 1996;</ref><ref type="bibr" target="#b13">2000;</ref><ref type="bibr">Hart, 1999;</ref><ref type="bibr">Siddle, 2000, Meloy, 2000;</ref><ref type="bibr" target="#b21">2006)</ref>. This hostility is reactive and impulsive in nature and driven by perceived or actual threats or fear. An individual trying to manage and respond to this mixture of vulnerability and physiological responses prompted largely by the release of adrenaline often results in unpredictable, spontaneous, affective violence <ref type="bibr" target="#b17">(Howard, 1999)</ref>.</p><p>Conversely, targeted or predatory violence is the result of a planned, intent-driven action that we see more commonly exhibited by terrorists and those engaging in rampage violence and school shooting sprees.</p><p>Targeted violence involves a more strategic, focused attack and a desire for the individual to complete a mission <ref type="bibr" target="#b19">(Meloy, 2000;</ref><ref type="bibr" target="#b21">2006;</ref><ref type="bibr" target="#b22">Meloy, Hoffmann, Guldimann, &amp; James, 2011;</ref><ref type="bibr" target="#b26">O'Toole, 2014;</ref><ref type="bibr" target="#b23">Meloy &amp; Hoffman, 2014)</ref>. This hostility occurs when a person becomes isolated, disconnected, lacks trust and often feels threatened and frustrated by a perceived attack. He plots and plans his revenge and often executes his plans with a militaristic, tactical precision <ref type="bibr" target="#b19">(Meloy, 2000;</ref><ref type="bibr" target="#b21">2006;</ref><ref type="bibr" target="#b22">Meloy, Hoffmann, Guldimann, &amp; James, 2011;</ref><ref type="bibr" target="#b26">O'Toole, 2014;</ref><ref type="bibr" target="#b23">Meloy &amp; Hoffman, 2014)</ref>. Such violence and hostility typically develop over time, and those planning such attacks often "leak" information about their plans to others (O'Toole, 2014). Such leakage and the nature of stage-by-stage progression provide behavioral intervention and threat assessment teams the potential opportunity to prevent the harm. Targeted violence may be a bit of a misnomer in the sense that the term does not imply a specific target, but instead references threats that are pre-meditated, planned and methodically executed, rather than those that are spontaneous and more likely to emerge without leakage and therefore without warning.</p><p>O'Toole (2014), describes those intending targeted violence as individuals who are "mission-oriented":</p><p>Mission-oriented shootings are hardly impulsive crimes. They are well planned and can involve days, weeks, months, even years of making preparations and fantasizing about the crime. The planning is strategic, complex, detailed, and sufficiently secretive to minimize the risk of being detected and maximize the chances for success. The planning does not occur in a vacuumduring this phase, mission-oriented shooters make many decisions, including the types of weapons and ammunition they will use and where to obtain it, the clothes they will wear, the location of the assault, who the victims will be, what they will do at the location, and the date and time of the shooting (p. 9). <ref type="bibr" target="#b11">Glasl's (1999)</ref> model of crisis escalation provides a useful framework in understanding the progressive acceleration that occurs with students prior to such a targeted violent episode. To help connect his framework to predatory and targeted violence, additional resources and research will be cited for each of the nine levels identified by Glasl:</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Stage 1: Hardening</head><p>• Description: The individual begins to selectively attend to his or her environment, filtering out material or information that doesn't line up with his or her beliefs. Stances begin to harden and crystalize. There is some oscillation between cooperative and competitive. Examples: A student begins to spend more time studying and joining websites related to white supremacy. He starts talking with others who share his beliefs and filters out those with differing opinions. Another example includes a falling out between those who had common cause, which results in a polarization of perspectives. References: Van Brunt, 2012; <ref type="bibr" target="#b22">Meloy et al., 2011;</ref><ref type="bibr">ASIS and SHRM, 2011;</ref><ref type="bibr" target="#b30">Sokolow et al, 2011;</ref><ref type="bibr" target="#b28">Randazzo and Plummer, 2009;</ref><ref type="bibr" target="#b29">Sokolow &amp; Lewis, 2009;</ref><ref type="bibr">ATAP, 2006;</ref><ref type="bibr" target="#b11">Glasl, 1999;</ref><ref type="bibr" target="#b32">Turner and Gelles, 2003;</ref><ref type="bibr" target="#b25">O'Toole, 2002</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Stage 2: Debate and Contentious Arguments</head><p>• Description: The individual further filters out any conflicting information and adopts polarizing points of view with others. There is a level of aggression threaded throughout all of the interactions and a sliding into extreme positions. There may be some lingering desire to convince others to his or her point of view, but being right supersedes the facts. Differences become polarizing. Example:</p><p>A student believes the nursing faculty is on a mission to drum him out of the program since he is a male. He argues publicly with them and shares his thoughts with other students. This is the kind of debate you never win, as there is no desire to see eye-to-eye as in academic debate, but to bring about capitulation. References: Van Brunt, 2012; <ref type="bibr" target="#b22">Meloy et al., 2011;</ref><ref type="bibr">ASIS and SHRM, 2011;</ref><ref type="bibr" target="#b30">Sokolow et al, 2011;</ref><ref type="bibr" target="#b28">Randazzo and Plummer, 2009;</ref><ref type="bibr" target="#b29">Sokolow &amp; Lewis, 2009;</ref><ref type="bibr">ATAP, 2006;</ref><ref type="bibr" target="#b11">Glasl, 1999;</ref><ref type="bibr" target="#b32">Turner and Gelles, 2003;</ref><ref type="bibr" target="#b25">O'Toole, 2002</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Stage 3: Actions not Words</head><p>• Description: There is a fundamental lack of trust and increased suspicion of others. The individual assumes negative intentions from others and debate is deadlocked. There is movement toward non-verbal behaviors to express frustration rather than engaging in conversation. Example: A student gets a letter from Financial Aid telling her the forms needed for this semester are not on file. The student knows she filed the forms and storms into the office, upends a display stand and proceeds to curse at the staff for their incompetence and accuse them of targeting her.  <ref type="bibr" target="#b29">&amp; Lewis, 2009;</ref><ref type="bibr" target="#b32">Turner and Gelles, 2003;</ref><ref type="bibr" target="#b11">Glasl, 1999;</ref><ref type="bibr" target="#b25">O'Toole, 2002</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Stage 4: Images and Coalitions</head><p>• Description: The individual has an image of the target and strives to enlist supporters to the cause, often within the peer, social or work group of the target. The individual only sees what confirms existing beliefs that reinforce a villainized target who now has accusations hurled against him or her. Physical confrontation and conflict enter the mix, no longer just verbal in arguments.</p><p>Example: A staff member receives a parking ticket and her request for an appeal is denied. This is her fifth parking ticket of the semester for illegal parking. The staff member claims the refusal was racially motivated and writes dozens of letters to the board of regents and forms an underground organization to find ways to make the on-campus parking department's job more difficult.</p><p>References: Van Brunt, 2012; <ref type="bibr" target="#b23">Meloy &amp; Hoffman, 2014;</ref><ref type="bibr" target="#b22">Meloy et al., 2011;</ref><ref type="bibr">ASIS and SHRM, 2011;</ref><ref type="bibr" target="#b30">Sokolow et al, 2011;</ref><ref type="bibr" target="#b28">Randazzo and Plummer, 2009;</ref><ref type="bibr" target="#b29">Sokolow &amp; Lewis, 2009;</ref><ref type="bibr">ATAP, 2006;</ref><ref type="bibr" target="#b11">Glasl, 1999;</ref><ref type="bibr" target="#b32">Turner and Gelles, 2003;</ref><ref type="bibr" target="#b25">O'Toole, 2002</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Stage 5: Loss of Face</head><p>• Description: The individual creates an outcast of his target and goes on the offense in order to unmask them in the community as a fraud. In an often public effort at undermining, the target is treated as inhuman and past events are viewed with a new, negative perspective. Example: A student creates a Facebook group called "Everyone hates Terry." In that group, she posts things about Terry such as "Terry lies to all of her friends, she talks behind your backs constantly. Terry pretends to be a sweet girl, but she is really a drug-addled whore." She sends group membership invitations to all of her friends and all of Terry's friends and organizational colleagues. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Stage 6: Strategies of Threat</head><p>• Description: The individual begins to make ultimatums and threats that contain a "do this or else" quality. Might be mere saber rattling, but the individual will attempt to infuse his or her threat with credibility. There are threats of punishment in order to get one's way. Conflict is escalating and may soon turn violent. Example: A student upset with how campus safety escorted him off campus for handing out brochures about a concealed carry protest calls the officers "monsters" and warns them that he was taught how to deal with monsters during his time in the army. He threatens to return again tomorrow. References: <ref type="bibr" target="#b23">Meloy &amp; Hoffman, 2014;</ref><ref type="bibr">ASIS and SHRM, 2011;</ref><ref type="bibr" target="#b22">Meloy et al., 2011;</ref><ref type="bibr" target="#b30">Sokolow et al, 2011;</ref><ref type="bibr" target="#b8">Drysdale et al., 2010;</ref><ref type="bibr" target="#b28">Randazzo and Plummer, 2009;</ref><ref type="bibr">ATAP, 2006;</ref><ref type="bibr" target="#b32">Turner and Gelles, 2003;</ref><ref type="bibr" target="#b25">O'Toole, 2002</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Stage 7: Limited Destructive Blows</head><p>• Description: Threats are implemented. There is a high level of objectification and depersonalization toward the target. Deceit and lies are championed and used to cause harm to the other party. Damage, while occurring, is limited. Often seen in the form of the acts of an accomplice, the pulled punch, or in the acts of the criminal mastermind who orchestrates harm to others but is not the direct instrument of its delivery. Example: A student becomes enraged at his girlfriend and punches the wall next to her and says, "Next time that's your face, bitch."</p><p>References: <ref type="bibr" target="#b23">Meloy &amp; Hoffman, 2014;</ref><ref type="bibr" target="#b27">O'Toole and Bowman, 2011;</ref><ref type="bibr" target="#b30">Sokolow et al, 2011;</ref><ref type="bibr" target="#b34">Van Brunt, 2012;</ref><ref type="bibr">U.S. Postal Service, 2007;</ref><ref type="bibr">ATAP, 2006;</ref><ref type="bibr" target="#b32">Turner and Gelles, 2003;</ref><ref type="bibr" target="#b25">O'Toole, 2002;</ref><ref type="bibr" target="#b11">Glasl, 1999</ref>.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Stage 8: Fragmentation of the Enemy</head><p>• Description: The individual is ready to destroy the enemy target. The attack may be physical, material, psychological and/or spiritual. There is a desire to tear down the core of the system so it can no longer be rebuilt. There remains some desire for self-preservation during the attack. This is  <ref type="bibr" target="#b28">Randazzo and Plummer, 2009;</ref><ref type="bibr">ATAP, 2006;</ref><ref type="bibr" target="#b32">Turner and Gelles, 2003;</ref><ref type="bibr" target="#b25">O'Toole, 2002;</ref><ref type="bibr" target="#b37">Vossekuil et al., 2000;</ref><ref type="bibr"></ref> 2002.</p><p>The stages are outlined here to offer delineated points of opportunity to engage with the individual, intervene and move him or her off the "pathway to violence" as described by <ref type="bibr" target="#b3">Calhoun and Weston (2003)</ref> and <ref type="bibr" target="#b10">Fein et al.(1995)</ref>. Each of the nine stages can be observed and methodically engaged with all necessary resources by law enforcement, campus housing, student conduct, counseling and others trained to identify and intervene. Engagement is intended to prevent the individual from further escalation. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>How Should Behavioral Intervention Teams Use This Tool?</head><p>Using the chart on page 21, the campus behavioral intervention team can measure actual threats posed to the campus. The overall risk level is represented by the NCHERM Group 5-level Risk Rubric for generalized risk (mild to extreme) -a scale that will indicate to the team the overall risk level and appropriate resources, support and intervention techniques to deploy. This scale applies to every case.</p><p>Regardless of where you start, the goal is to end in the center column. The mental health and hostility/violence measures only apply as overlays when mental health issues and/or signs of hostility are indicated, but are the best starting point because they are more accurate scales than the generalized, center rubric. Using all of the information reported to the team, background on the student, and any investigation done by the team, the team will then assess baseline and trajectory, assimilate the information and assign a risk level.</p><p>As we mentioned earlier in this Whitepaper, baseline has become a misunderstood concept, and because it is essential to understanding where to start on the tool, and how to get an overall accurate assessment, we want to unpack the concept here. In an environment like a residential college, threat or risk assessment need not be done in a vacuum. Most threats that are directed at the community are directed at it by a member of the community, or someone closely associated with it. Thus, we potentially know a lot about the sources of threats to our communities. Let's mine that data, use it wisely, and assess risk within its context.</p><p>We have to assume a "normal" baseline for any threatener who we know nothing about. Normal means they are no closer to violence or harm than any other person who makes a similar threat or gesture. For those we know some history or context about, there are two relevant questions: 1) Is the individual off his baseline?</p><p>2) Does the individual have an elevated baseline?</p><p>We think the confusion comes from mingling these two concepts, or not understanding and operationalizing how they are distinct. Let's use the example of someone who self-injures via cutting to better understand the difference. If your BIT learns student Janine is engaged in superficial cutting, it will evaluate her risk according to her behaviors. If your team later learns (a second report, from a different source) that Janine is cutting herself again, and is cutting exactly as before, you will be less concerned by the second report, because it simply confirms the baseline that Janine is someone who cuts. If we knew prior to first hearing about Janine that Janine was not involved in cutting, hearing that she now cuts would represent a change in her baseline. That doesn't affect her level of risk any differently than her cutting behavior represents, but it tells us something about her trajectory that is useful. She has moved off her norm. She will either return to her norm (expected and low risk), maintain the cutting (a higher risk than her norm) or begin to cut more harmfully, or progress to other self-injurious acts (her risk will worsen). We're watching for where her trajectory will go. This is not predictive because we don't know that her trajectory will exacerbate, but we do know with some likelihood what her progression will look like if she continues. When Janine begins to cut more significantly, it will mean more to a BIT because we know the context of where her baseline was, and how quickly and how far her self-injury has progressed. Being "off your baseline" simply gives context to someone's trajectory toward harm or violence. Nothing more.</p><p>The second (and separate) consideration is whether Janine has an "elevated baseline." A baseline is elevated when historical or contextual factors about the individual empirically place them closer to the threshold for violence or harm to self or others. "Empirically" means that research or data tells us the history or context is an exacerbating factor, and it must be research based. What are some circumstances that occur in the literature that empirically enhance risk factors for violence or self-harm? Here are some examples:</p><p>• Past alcohol abuse or alcoholism or other drug abuse Elevated level, or even higher (that is rare). Let's assume that Janine presents with some disrupting behavior and that we know historically that Janine is a cutter whose self-injury is rapidly becoming worse in terms of frequency and severity. And, let's assume just for the sake of discussion, that she is 20% more likely to attempt suicide as a result of her cutting pattern. With a five-level scale, each level is perhaps 20% of the path to violence or harm (it's as much art as science in this regard). Janine's behavior, because of her elevation, has to be evaluated starting 20% closer to harm, which is a baseline of Mild (rather than normal/no risk). Her current disruption would result in a Mild assessment without the baseline elevation, but with one level of baseline elevation, Janine is Moderate on the scale, not Mild, though her present disrupting behavior would only merit a Mild categorization without the context.</p><p>If the literature said the risk was 30% higher, Janine would score between Moderate and Elevated. If it was 40% higher, Janine would score firmly in the Elevated risk category. Thus, a person whose risk is categorized as Elevated by their current behaviors, but who has an elevated baseline by two levels (Moderate) would in fact peg the tool at Extreme (Elevated + two levels = Extreme). Part of the confusion occurs here because of our dual uses of the term "elevated" and "Elevated." To have an elevated baseline could refer to any one of 1-5 levels of elevation. To be Elevated on the chart refers to the third or middle category of risk. One can be Elevated without a baseline elevation, or because of one. Again, baseline elevations only occur where a baseline is known, and that history or context is the basis for a BIT to believe the individual is empirically closer to harm or violence. Teams should assess both being off one's baseline, as evidence of trajectory, and having an elevated baseline, which is essential to accurate assessment in context. One can be both off their baseline (their norm) and have an elevated baseline, but those would normally be caused by totally different factors.</p><p>Let's say someone becomes suddenly delusional from a baseline of previous mental competence. If so, that's a sharp baseline departure. They are off their baseline. This represents an acute concern because of how abruptly and substantially someone has departed from their baseline. A minor departure from baseline is less concerning, but may start to signal a trajectory (leftward or rightward). But, the baseline is not elevated by any historical or contextual factor. Add the fact of a history of substance abuse, and the baseline would then elevates by a category or two, thus combining an advancing trajectory with elevated risk in a worrisome combination. So, step one for using the tool is to assess baseline, and determine trajectory, if you can. Trajectory will be leftward toward the "D" Scale, rightward to the Violence and Hostility Scale, or both (which is a more acute scenario).</p><p>If mental and behavioral health-related issues are most obvious, the trajectory is primarily leftward, and you will classify the student on the "D" scale first, taking into account any baseline elevation you can determine.</p><p>If violence and hostility to others are most apparent, you'll want to start on the right, and use the violence and hostility scale. The trajectory is rightward, and you'll want to assess for any baseline elevations.</p><p>If there is no evidence of mental and behavioral health-related risk, violence or hostility, you can directly classify the risk according to the 5-level scale, using it as a default or for its enterprise risk application.</p><p>Assuming that you can start on one (or both) flanks, you then work from the left or right scale to the center, assigning a correct level of overall risk from the rubric (Mild though Extreme). The tool is not meant to be worked all the way across from left to right, or right to left, but when you can, that confirms the strength of your assessment. There may or may not be a corresponding level of mental and behavioral health-related risk to the level of violence and hostility indicated, or a level of violence and hostility that corresponds to the mental and behavioral health risk information you have. The order for teams using the Tool should be: 1) identify the behavior, 2) gather additional data, 3) assess baseline and trajectory, 4) assign a risk level, then 5) determine the institutional intervention/response from the parameters outlined.</p><p>A Word about the SIVRA-35</p><p>The SIVRA-35 is a specialized, structured inventory that is useful to assess individuals who may pose a risk or threat of harm to others, and is designed to be administered by team members. The SIVRA-35 is not designed as a psychological test and it is not designed to assess suicidal students. Mental health expertise is not necessary to utilize it. It is a guided structured interview tool useful for classifying risks into low, moderate, and high categories, and integrates with the NaBITA Tool at the levels of Elevated and above, when those levels result from classification with the hostility and violence scale. Integrating the SIVRA-35 at this point in the assessment process will produce a more accurate risk picture using 35 variables than the NaBITA Tool would, alone. While the SIVRA-35 primarily assists those conducting violence risk assessments through narrative and structured questions, there is a quantitative, numeric scoring key to further assist staff in their decision-making. A single administrator will either ask questions directly to the person being assessed or review relevant incident reports and other forms of data to determine a true or false answer for each item.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Conclusion</head><p>The authors are dedicated to developing models of behavioral intervention and threat assessment based on adaptation of academic research, clinical studies, law enforcement reports, governmental investigations and campus best practices. It is the authors' goal in this article to stimulate current interest in and concern on campuses regarding risk and threat assessment and to offer practical models for addressing campus safety. Ultimately, the model offered in this paper may enhance early intervention, foster thoughtful and timely response, and avert tragedy. If you find this paper to be of use, please share it with your colleagues.</p><p>Copies may be downloaded at www.nabita.org.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>NaBITA --A Membership Association for Higher Education</head><p>While visiting the NaBITA website, the authors encourage you to explore its resources and to consider becoming NaBITA members. NaBITA serves as a membership association, a clearinghouse for resources, and a mechanism for sharing and disseminating best practices for an emerging field. You will find that NaBITA membership is distinguished by a strong value-inclusive philosophy. NaBITA membership offers a community, a newsletter and a listserv. NaBITA's members experience added value through discounted and free webinars and seminars, free or discounted registration to the NaBITA Annual Conference, access to a Q&amp;A panel of behavioral intervention experts, and behavioral intervention documentation, including a member library of more than 300 practical documents and resources on successful models, sample  </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head>Law</head><label></label><figDesc>Enforcement and Work Place Violence Threat Assessment Models Law enforcement and workplace violence-based threat assessment models have been developed and used successfully by organizations such as the Association of Threat Assessment Professionals (www.atapworldwide.org), the Federal Bureau of Investigations (FBI), U.S. Secret Service, U.S. Department of Education, U.S. Postal Service, ASIS International, the Society for Human Resource Management (SHRM), and the American Society of Mechanical Engineers -Innovative Technologies</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_1"><head></head><label></label><figDesc>measures, using the current terminology of the mental health field. While this scale may represent some oversimplification compared to the clinical assessment of a mental health professional, it is not a gross oversimplification. It is pared down to the point of easy application without needing a high level of clinical mental health expertise. The "D" scale progressively escalates from Distress to Disturbance to Dysregulation/Decompensation. The definition of each "D" is as follows: • Distress -Emotionally troubled (e.g., depressed, manic, unstable) -Impacted by actual/perceived situational stressors and traumatic events • Behavior may subside when stressor is removed or trauma is addressed/processed • May be psychiatrically symptomatic if not coping/adapting to stressors/trauma • Disturbance -Increasing disruptive or concerning behavior; unusual, and/or bizarrely acting • May be destructive, apparently harmful or threatening to self/others • Substance misuse and abuse; self-medication • Dysregulation -Acutely suicidal (thoughts, feelings, expressed intentions and ideations at the level of threat/attempt) -Parasuicidal (extreme self-injurious behavior, eating disorder, personality disorder) • Engaging in risk-taking behaviors (e.g., substance abusing) • Hostile, aggressive, relationally abusive • Deficient in skills that regulate emotion, cognition, self, behavior, and relationships • Decompensation (a parallel level of risk to dysregulation) -Profoundly disturbed, detached view of reality -Unable to care for themselves (poor self care/protection/judgment) • At risk of grievous injury or death without an intent to self-harm • Often seen in psychotic breaks Harm to Others: Measuring Hostility and Violence</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>References:</head><label></label><figDesc>Van Brunt, 2012; O'Toole and Bowman, 2011; ASIS and SHRM, 2011; Sokolow et al, 2011; Sokolow</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_3"><head></head><label></label><figDesc>References: Van Brunt, 2012; O'Toole and Bowman, 2011; Sokolow et al, 2011; Sokolow &amp; Lewis, 2009; U.S.Postal Service, 2007; ATAP, 2006;<ref type="bibr" target="#b25">O'Toole, 2002;</ref><ref type="bibr" target="#b11">Glasl, 1999.</ref> </figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_4"><head></head><label></label><figDesc>described as a win-lose attack where the individual keeps his or her own life and destroys his target. Example: A faculty member brings a gun into a meeting with other faculty and demands they get on their knees to beg for their lives.References: Meloy &amp; Hoffman, 2014; O'Toole, 2014; Van Brunt, 2012; Meloy et al., 2011; Sokolow et al, 2011; ATAP, 2006; Turner and Gelles, 2003. Stage 9: Plunging Together into the Abyss • Description: The individual is focused and fixated on destroying the target with no regard for his or her own safety. As long as the opponent is dragged into the abyss as well, even self-destruction is a triumph. This is described as a lose-lose attack where intent of the threatener is to destroy the target and him or herself. Examples: Seung-Hui Cho at Virginia Tech, Steven Kazmierczak at Northern Illinois University and Eric Harris and Dylan Klebold from the Columbine High School massacre. References: Meloy and Hoffman, 2014; O'Toole, 2014; Van Brunt, 2012; Meloy et al., 2011; O'Toole and Bowman, 2011; ASIS and SHRM, 2011; Sokolow et al, 2011;</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_5"><head>•</head><label></label><figDesc>Overall and Generalized Risk -The NCHERM Group 5-Level Risk RubricThe third scale informing the NaBITA Tool is a generalized risk rubric originally developed by the National Center for Higher Education Risk Management (NCHERM; now The NCHERM Group, LLC), from an enterprise risk framework. It is applicable to potentially violent and injurious acts, as well as to risks that threaten reputation, facilities, normal operations, finances, etc. This is the central spine of the Threat Assessment Tool, and it is universally applicable. This rubric is specifically designed for campus threat assessment purposes as default measures when the "D" Scale or Violence and Hostility Scales are not applicable, as the overall risk category, and as measures for the enterprise risk areas identified above, which may not include threats of violence or self-harm. Every case examined using the NaBITA Tool should result in a determination of the level of risk as delineated by The NCHERM Group 5-Level Risk Rubric, often working from the "D" Scale or the Hostility and Violence Scale, inward to get an accurate overall risk level. At each encounter with an at-risk individual, teams should update records to reflect the current status on this scale that results from observable behaviors, taking baseline adjustments into account as needed.These criteria are drawn from widely accepted measures including those promulgated by the U.S.Department of Education and the U.S. Secret Service<ref type="bibr" target="#b4">(Cornell, 2010;</ref><ref type="bibr" target="#b31">Pollack, Modzeleski &amp; Rooney, 2008;</ref><ref type="bibr" target="#b8">Drysdale, Modzeleski, &amp; Simons, 2010;</ref><ref type="bibr" target="#b37">Vossekuil, Fein, Reddy, Borum, &amp; Modzeleski, 2000</ref>. The following are the specific definitions of threat levels in the NCHERM Group 5-level generalized risk rubric:Mild risk • Disruptive or concerning behavior • May or may not show signs of distress • No threat made or present Moderate risk More involved or repeated disruption; behavior more concerning; likely distressed or low-level disturbance if on the "D" Scale • Possible threat made or perceived (often conditional) • Threat is vague and indirect (no identified means or target) • Information about threat or threat itself is inconsistent, implausible or lacks detail • Threat lacks realism • Content of threat suggests threatener is unlikely to carry it out Elevated risk • Seriously disruptive or concerning incident(s) • Exhibiting clear distress, more likely disturbance, if on the "D" Scale • Threat made or present • Threat is vague and indirect, but may be repeated or shared with multiple reporters • Information about threat or threat itself is inconsistent, implausible or lacks detail • Threat lacks realism, or is repeated with variations • Content of threat suggests threatener is unlikely to carry it out Severe risk • Disturbed or advancing to dysregulation • Threat made or present • Threat is vague but direct, or specific but indirect (type of threat v. object of threat) • Likely to be repeated or shared with multiple reporters • Information about threat or threat itself is consistent, plausible or includes increasing detail of a plan (i.e., time, place) • Threat likely to be repeated with consistency (may try to convince listener they are serious) • Content of threat suggests threatener may carry it out Extreme risk • Dysregulated (way off his/her baseline) or decompensating • Threat made or present • Threat is concrete (specific and direct) • Likely to be repeated or shared with multiple reporters • Information about threat or threat itself is consistent, plausible or includes specific detail of a plan (i.e., time, place), often with steps already taken • Threat may be repeated with consistency • Content of threat suggests threatener will carry it out (reference to weapons, means, target) • Threatener may appear detached The Chart Graphically Represents the Threat Assessment Tool Below on page 20 we have graphically represented our above multidisciplinary model. This page is a color coded chart that demonstrates how our three scales for measuring threat (mental and behavioral healthrelated risk, generalized risk, and hostility and violence toward others) correspond to and intersect with each other. Page 21 is a handy reference chart to using the NCHERM Group 5-level Risk Rubric. This chart lists in the left column the levels of risk ranging from mild to extreme, with bullet points summarizing how to classify the level of risk of a range of behaviors. The right column lists the range of risk from mild to extreme, this time suggesting the range of intervention tools available to most behavioral intervention teams to address the level of risk identified in the left column. Understanding the Chart The chart on p. 20 depicts on its far left the "D" scale, referencing the three levels of mental health-related risk used in our model. Each of the terms Distress, Disturbance and Dysregulation/Decompensation is defined, and indicated by escalating levels of threat, from the highest at the top of the chart (Dysregulation/Decompensation) to the lowest at the bottom of the chart (Distress). The column in the middle of the chart depicts the NCHERM Group 5-Level Risk Rubric (Mild, Moderate, Elevated, Severe, Extreme). The far right column illustrates the nine stages of Hostility and Violence. Each is color coded to show its correspondence. A distress-level of mental health-related risk corresponds normally to mild-to-moderate levels of generalized risk, and may manifest Violence and Hostility at the escalation phase (Hardening, Debate and Contentious Arguments, Actions not Words, Images and Coalitions, Loss-of-Face). The next level of the "D" scale, disturbance, corresponds normally to the range of generalized risk from moderate-to-elevated-tosevere. Hostility and violence may manifest at this level with some of the lower level measures and most likely with Strategies of Threat. At the highest level of the "D" scale, dysregulation and decompensation usually correspond to the two highest levels of generalized threat -severe and extreme. They can also manifest on the three highest stages of the hostility and violence scale with Limited Destructive Blows, Fragmentation of the Target and finally Plunging Together into the Abyss.</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_6"><head>•</head><label></label><figDesc>Current alcohol use, abuse or alcoholism or drug use, abuse or addiction • PTSD • History of eating disorders • Cutting and other intentional self-injury • Significant suicidal threats or attempts • A history of violence • Etcetera If the historical risk factor or context is not an empirical exacerbating factor in the risk of harm or violence, the baseline is normal (indicated at the bottom of the tool). Conduct your risk assessment as you normally would. If the baseline is elevated, how elevated is it? It depends on the research and what it tells us. It may tell us, using the NaBITA five-level scale (Mild-Moderate-Elevated-Severe-Extreme), not to start an assessment from the bottom of the chart (normal baseline), but to start with the Mild level, Moderate level,</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_7"><head></head><label></label><figDesc>She provided rape crisis counseling and served on the Board of Directors of Planned Parenthood of Butler County. Daniel Swinton, J.D., Ed.D. is the Senior Executive Vice President of The NCHERM Group, LLC. Prior to his work with The NCHERM Group, he served as Assistant Dean and Director of Student Conduct and Academic Integrity at Vanderbilt University. Daniel is a frequent presenter at national conferences and on campuses on issues such as sexual misconduct on college campuses, legal issues in student affairs and higher education, civil rights investigations, student conduct policies and procedures, mediation and behavioral intervention teams. He also performs external investigations for colleges and universities. Daniel serves as Associate Executive Director of ATIXA (The Association for Title IX Administrators) and on the Advisory Board of NaBITA (National Behavioral Intervention Team Association). He has also served on the Board for the Association for Student Conduct Administration (ASCA), having served as its President in 2011-2012. Brian Van Brunt, Ed.D. is the Senior Vice President for Professional Program Development with The NCHERM Group, LLC. He is past-president of the American College Counseling Association (ACCA), the president-elect of the National Behavioral Intervention Team Association (NaBITA), editor for The Journal of Campus Behavioral Intervention (J-BIT) and the managing editor for Student Affairs eNews (SAeN). He has a doctoral degree in counseling supervision and education from the University of Sarasota/Argosy and a master's degree in counseling and psychological services from Salem State University. Brian has served as the director of counseling at New England College and Western Kentucky University. He is the author of several books including: Ending Campus Violence: New Approaches in Prevention and A Faculty Guide to Addressing Disruptive and Dangerous Behavior in the Classroom. Dr. Van Brunt recently developed the Structured Interview for Violence Risk Assessment (SIVRA-35), a starting place for law enforcement,</figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>policies, protocols, training tools and tabletop exercises. www.nabita.org Threat lacks realism, or is repeated with variations • Content of threat suggests threatener is unlikely to carry it out Content of threat suggests threatener is unlikely to carry it out• Disruptive or concerning behavior • May or may not show signs of distress • No threat made or present • Disturbed or advancing to dysregulation • Threat made or present • Threat is vague, but direct, or specific but indirect • Likely to be repeated or shared with multiple reporters • Information about threat or threat itself is consistent, plausible or includes increasing detail of a plan (time, place, etc.) • Threat likely to be repeated with consistency (may try to convince listener they are serious) • Content of threat suggests threatener may carry it out. Meeting/soft referral by reporter ! Behavioral contract or treatment plan with student or employee (if at all, only for low-level concerns) ! Student conduct or HR response ! Evaluate for disability services and/or medical referral ! Conflict management, mediation, problem-solving ! Possible confrontation by reporter ! Parental/guardian notification obligatory unless contraindicated ! Evaluate emergency notification to others (FERPA/HIPAA/Clery) ! No behavioral contracts ! Recommend interim suspension or paid/unpaid leave ! Possible liaison with local police to compare red flags ! Deploy mandated assessment ! Evaluate for medical/psychological transport ! Evaluate for custodial hold ! Consider voluntary/involuntary medical withdrawal • Direct threat eligible ! Law enforcement response ! Consider eligibility for involuntary commitment ! SIVRA-35 or other violence risk assessment SEVERE RISK ! Possible confrontation by reporter ! Parental/guardian notification obligatory unless contraindicated ! Evaluate emergency notification to others ! No behavioral contracts ! Interim suspension or paid/unpaid leave if applicable ! Possible liaison with local police to compare red flags ! Too serious for mandated assessment ! Evaluate for medical/psychological transport ! Evaluate for custodial hold ! Initiate voluntary/involuntary medical withdrawal ! Law enforcement response ! Consider eligibility for involuntary commitment Discipline and Campus Conduct; Intellectual Property and Employment Issues. Ms. Schuster's higher education legal experience includes serving: as the General Counsel for Sinclair Community College; as Senior Assistant Attorney General for the State of Ohio, representing public colleges and universities; and as the Associate General Counsel for the University of Toledo. In addition to her legal work in higher education, Ms. Schuster has over twenty-five years experience in college administration and teaching. Prior to practicing law, she was the Associate Dean of Students at The Ohio State University and served as a faculty member at The Ohio State University, Miami University and Columbus State Community College.</figDesc><table><row><cell>CLASSIFYING RISK</cell><cell>INTERVENTION TOOLS TO ADDRESS RISK AS CLASSIFIED</cell></row><row><cell>MILD RISK</cell><cell>MILD RISK</cell></row><row><cell>MODERATE RISK</cell><cell>MODERATE RISK</cell></row><row><cell>ELEVATED RISK • Seriously disruptive incident(s) • Exhibiting clear distress, more likely disturbance • Threat made or present • Threat is vague and indirect, but may be repeated or shared with multiple reporters • Information about threat or threat itself is inconsistent, implausible or lacks detail concerning. Likely distressed or low-level disturbance • Possible threat made or perceived • • More involved or repeated disruption. Behavior more • Threat is vague and indirect • Information about threat or threat itself is inconsistent, implausible or lacks detail • Threat lacks realism • SEVERE RISK</cell><cell>! Meeting/soft referral by reporter ! Behavioral contract or treatment plan with student (if at all, only for low-level concerns) ! Student conduct or HR response ! Evaluate for disability services and/or medical referral ! Conflict management, mediation (not if physical/violent), ELEVATED RISK ! Meeting/mandated referral by reporter ! Evaluate parental/guardian notification ! Obtain and assess medical/educational and other records ! Consider interim suspension if applicable ! Evaluate for disability services and/or medical referral ! Consider referral or mandated assessment ! SIVRA-35 or other violence risk assessment problem-solving</cell></row><row><cell>EXTREME RISK</cell><cell>EXTREME RISK</cell></row><row><cell>• Dysregulated (way off baseline) or medically disabled</cell><cell></cell></row><row><cell>• Threat made or present</cell><cell></cell></row><row><cell>• Threat is concrete (specific or direct)</cell><cell></cell></row><row><cell>• Likely to be repeated or shared with multiple reporters</cell><cell></cell></row><row><cell>• Information about threat or threat itself is consistent, plausible or</cell><cell></cell></row><row><cell>includes specific detail of a plan (time, place, etc.), often with</cell><cell></cell></row><row><cell>steps already taken</cell><cell></cell></row><row><cell>• Threat may be repeated with consistency</cell><cell></cell></row><row><cell>• Content of threat suggests threatener will carry it out (reference</cell><cell></cell></row><row><cell>to weapons, means, target)</cell><cell></cell></row></table><note>!</note></figure>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="1">Admittedly, we acknowledge that the study to validate the tool was commissioned by NaBITA and led by one of the authors of this article. It was not independent. Thus, we recommend careful review of the study to assess our methodology and the objectivity of the results.</note>
+			<note xmlns="http://www.tei-c.org/ns/1.0" place="foot" n="2">The prominent and widespread adoption of the NaBITA Tool does not let teams off the hook for identifying and assuring that the campus can deploy a full range of tools. For example, teams may wish to access additional training on techniques useful to de-escalate affective violence. These are difficult to teach and learn through an article, though they are essential to campus behavioral intervention teams and campus law enforcement who may need to defuse threats when encountered.</note>
+		</body>
+		<back>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<analytic>
+		<title level="a" type="main">Creating a new mindset: guidelines for mentorship in todays workplace</title>
+		<idno type="DOI">10.1108/hrmid.2011.04419eaa.006</idno>
+		<ptr target="Retrievedfromwww.asisonline.org/guidelines/published.htm" />
+	</analytic>
+	<monogr>
+		<title level="j">Human Resource Management International Digest</title>
+		<title level="j" type="abbrev">Hum Res Mgt Intl Digest</title>
+		<idno type="ISSN">0967-0734</idno>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<date type="published" when="2011-07-19" />
+			<publisher>Emerald</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<analytic>
+		<title level="a" type="main">Appendix D: ATAP “Risk Assessment Guideline Elements for Violence: Considerations for Assessing the Risk of Future Violent Behavior”︁</title>
+		<idno type="DOI">10.1002/9781119221678.app4</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Association of Threat Assessment Professionals (ATAP)</title>
+		<imprint>
+			<publisher>Wiley</publisher>
+			<date type="published" when="2015-08-11" />
+			<biblScope unit="page" from="219" to="230" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title level="m" type="main">A Strategic Review of Campus Behavioral Intervention and Threat Assessment Practices</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Bennett</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Lengerich</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+	<note>Presented at the 2011 NaBITA conference</note>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title level="m" type="main">Threat Assessment and Management Strategies</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Frederick</forename><forename type="middle">S</forename><surname>Calhoun</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Frederick</forename><forename type="middle">S</forename><surname>Calhoun</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Steve</forename><forename type="middle">W</forename><surname>Weston J.D.</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Stephen</forename><forename type="middle">W</forename><surname>Weston J.D.</surname></persName>
+		</author>
+		<idno type="DOI">10.1201/9781420087321</idno>
+		<imprint>
+			<date type="published" when="2008-10-06" />
+			<publisher>CRC Press</publisher>
+			<pubPlace>San Diego</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<analytic>
+		<title level="a" type="main">Threat Assessment in College Settings</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Dewey</forename><surname>Cornell</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/00091380903448997</idno>
+		<ptr target="Retrievedfromwww.changemag.org" />
+	</analytic>
+	<monogr>
+		<title level="j">Change: The Magazine of Higher Learning</title>
+		<title level="j" type="abbrev">Change: The Magazine of Higher Learning</title>
+		<idno type="ISSN">0009-1383</idno>
+		<idno type="ISSNe">1939-9146</idno>
+		<imprint>
+			<biblScope unit="volume">42</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="8" to="15" />
+			<date type="published" when="2010-01" />
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<analytic>
+		<title level="a" type="main">Threat Assessment Feedback for Management</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">G</forename><surname>Deisinger</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Randazzo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>O'neill</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Savage</surname></persName>
+		</author>
+		<idno type="DOI">10.4324/9780203725375-9</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Threat Assessment</title>
+		<imprint>
+			<publisher>Routledge</publisher>
+			<date type="published" when="2012-12-06" />
+			<biblScope unit="page" from="105" to="110" />
+		</imprint>
+	</monogr>
+	<note>Applied Risk Management</note>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<analytic>
+		<title level="a" type="main">The AISP model: Assessment-intervention of student problems</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Ursula</forename><surname>Delworth</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/ss.37119894503</idno>
+	</analytic>
+	<monogr>
+		<title level="j">New Directions for Student Services</title>
+		<title level="j" type="abbrev">New Directions for Student Services</title>
+		<idno type="ISSN">0164-7970</idno>
+		<idno type="ISSNe">1536-0695</idno>
+		<imprint>
+			<biblScope unit="volume">1989</biblScope>
+			<biblScope unit="issue">45</biblScope>
+			<biblScope unit="page" from="3" to="14" />
+			<date type="published" when="1989" />
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<analytic>
+		<title level="a" type="main">Managing violent and other troubling students: The role of threat assessment teams on campus</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">H</forename><surname>Dunkle</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Z</forename><forename type="middle">B</forename><surname>Silverstein</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><forename type="middle">L</forename><surname>Warner</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of College and University Law</title>
+		<imprint>
+			<biblScope unit="volume">34</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="585" to="636" />
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title level="m" type="main">Multi-agency radiation survey and site investigation manual (MARSIM). Final report</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Drysdale</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Modzeleski</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Simons</surname></persName>
+		</author>
+		<idno type="DOI">10.2172/569107</idno>
+		<imprint>
+			<date type="published" when="1997-12-01" />
+			<publisher>Office of Scientific and Technical Information (OSTI)</publisher>
+			<pubPlace>Washington, DC</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>United States Secret Service, United States Department of Education and Federal Bureau of Investigation</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<analytic>
+		<title level="a" type="main">Assessing and Responding to Disturbed and Disturbing Students: Understanding the Role of Administrative Teams in Institutions of Higher Education</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Gregory</forename><forename type="middle">T</forename><surname>Eells</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Harry</forename><forename type="middle">S</forename><surname>Rockland-Miller</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/87568225.2011.532470</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of College Student Psychotherapy</title>
+		<title level="j" type="abbrev">Journal of College Student Psychotherapy</title>
+		<idno type="ISSN">8756-8225</idno>
+		<idno type="ISSNe">1540-4730</idno>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="8" to="23" />
+			<date type="published" when="2010-12-30" />
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title level="m" type="main">Threat Assessment: An Approach To Prevent Targeted Violence</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Robert</forename><forename type="middle">A</forename><surname>Fein</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Bryan</forename><surname>Vossekuil</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Gwen</forename><forename type="middle">A</forename><surname>Holden</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/e517592006-001</idno>
+		<imprint>
+			<date type="published" when="1995" />
+			<publisher>American Psychological Association (APA)</publisher>
+			<pubPlace>Washington, DC</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>National Institute of Justice</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title level="a" type="main">Confronting Conflict</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">F</forename><surname>Glasl</surname></persName>
+		</author>
+		<idno type="DOI">10.4135/9781483325873.n2</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Managing Interpersonal Conflict</title>
+		<meeting><address><addrLine>UK</addrLine></address></meeting>
+		<imprint>
+			<publisher>SAGE Publications, Inc.</publisher>
+			<date>1999</date>
+			<biblScope unit="page" from="25" to="47" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">On Killing: The Psychological Cost of Learning to Kill in War and Society</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Grossman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1996" />
+			<publisher>Back Bay Books</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title level="m" type="main">The Oxford Companion to American Military History</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Grossman</surname></persName>
+		</author>
+		<idno type="DOI">10.1093/acref/9780195071986.001.0001</idno>
+		<imprint>
+			<date type="published" when="2000-01-01" />
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<analytic>
+		<title level="a" type="main">Psychological Effects of Combat*</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Dave</forename><surname>Grossman</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Bruce</forename><forename type="middle">K</forename><surname>Siddle</surname></persName>
+		</author>
+		<idno type="DOI">10.1016/b978-012373985-8.00148-3</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Encyclopedia of Violence, Peace, &amp; Conflict</title>
+		<meeting><address><addrLine>Kidlington, UK</addrLine></address></meeting>
+		<imprint>
+			<publisher>Elsevier</publisher>
+			<date type="published" when="2008" />
+			<biblScope unit="page" from="1796" to="1805" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<analytic>
+		<title level="a" type="main">Jed Foundation introduces MH framework for students of color</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Valerie</forename><forename type="middle">A</forename><surname>Canady</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/mhw.32502</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Mental Health Weekly</title>
+		<title level="j" type="abbrev">Mental Health Weekly</title>
+		<idno type="ISSN">1058-1103</idno>
+		<idno type="ISSNe">1556-7583</idno>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">35</biblScope>
+			<biblScope unit="page" from="5" to="6" />
+			<date type="published" when="2020-09-11" />
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<analytic>
+		<title level="a" type="main">Generous NY statute language gives former employee&apos;s lawsuit a boost</title>
+		<idno type="DOI">10.1002/cala.30787</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Campus Legal Advisor</title>
+		<title level="j" type="abbrev">Campus Legal Advisor</title>
+		<idno type="ISSN">1531-3999</idno>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="10" to="10" />
+			<date type="published" when="2018-04-18" />
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<analytic>
+		<title level="a" type="main">The Owner&apos;s Manual for the Brain: Everyday Applications From Mind-Brain Research. Pierce J. Howard (1994). ISBN 0-9636389-1-2. Available from Leornian Press, Phone 512 266-2112</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">P</forename><forename type="middle">J</forename><surname>Howard</surname></persName>
+		</author>
+		<idno type="DOI">10.1177/153321019600200326</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Complementary Health Practice Review</title>
+		<title level="j" type="abbrev">Complementary Health Practice Review</title>
+		<idno type="ISSN">1533-2101</idno>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">3</biblScope>
+			<biblScope unit="page" from="231" to="232" />
+			<date type="published" when="1996-10-01" />
+			<publisher>SAGE Publications</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">The Anatomy of Fear and How it Relates to Survival Skills Training</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>Laur</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2002" />
+			<pubPlace>Cleveland, OH</pubPlace>
+		</imprint>
+	</monogr>
+	<note>Integrated Street Combatives</note>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<analytic>
+		<title level="a" type="main">Autonomic Arousal in the Presence of Psychopathy</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">Reid</forename><surname>Meloy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">J</forename><surname>Meloy</surname></persName>
+		</author>
+		<idno type="DOI">10.1300/j177v02n02_02</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Journal of Threat Assessment</title>
+		<title level="j" type="abbrev">Journal of Threat Assessment</title>
+		<idno type="ISSN">1533-2608</idno>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="21" to="33" />
+			<date type="published" when="2003-04-21" />
+			<publisher>Informa UK Limited</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<analytic>
+		<title level="a" type="main">Stalking and Violence</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">R</forename><surname>Meloy</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/9780470713037.ch7</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Stalking and Psychosexual Obsession</title>
+		<editor>J. Boon &amp; L. Sheridan</editor>
+		<meeting><address><addrLine>West Sussex, UK; Ltd</addrLine></address></meeting>
+		<imprint>
+			<publisher>John Wiley &amp; Sons, Ltd</publisher>
+			<date>2002</date>
+			<biblScope unit="page" from="106" to="124" />
+		</imprint>
+	</monogr>
+	<note>Stalking and violence</note>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<analytic>
+		<title level="a" type="main">Empirical basis and Forensic Application of Affective and Predatory Violence</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">R</forename><surname>Meloy</surname></persName>
+		</author>
+		<idno type="DOI">10.1080/j.1440-1614.2006.01837.x</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Australian &amp; New Zealand Journal of Psychiatry</title>
+		<title level="j" type="abbrev">Aust N Z J Psychiatry</title>
+		<idno type="ISSN">0004-8674</idno>
+		<idno type="ISSNe">1440-1614</idno>
+		<imprint>
+			<biblScope unit="volume">40</biblScope>
+			<biblScope unit="issue">6-7</biblScope>
+			<biblScope unit="page" from="539" to="547" />
+			<date type="published" when="2006-06" />
+			<publisher>SAGE Publications</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Meloy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Hoffmann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Guldimann</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>James</surname></persName>
+		</author>
+		<title level="m">The Role of Warning Behaviors in Threat Assessment: An Exploration and Suggested Typology. Behavioral Sciences and the Law</title>
+		<imprint>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">The International Handbook of Threat Assessment</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Meloy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Hoffman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014" />
+			<publisher>Oxford University Press</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title level="m" type="main">Campus violence prevention and response: Best practices for Massachusetts&apos;s higher education</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">D</forename><surname>O'neill</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Fox</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Depue</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Englander</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+	<note>Applied Risk Management</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">The School Shooter: A Threat Assessment Perspective</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mary</forename><forename type="middle">E</forename><surname>O'toole</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/e319532004-001</idno>
+		<imprint>
+			<date type="published" when="2000" />
+			<publisher>American Psychological Association (APA)</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<analytic>
+		<title level="a" type="main">The Mission-Oriented Shooter: A New Type of Mass Killer</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Mary</forename><forename type="middle">E</forename><surname>O'toole</surname></persName>
+		</author>
+		<idno type="DOI">10.1089/vio.2013.1502</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Violence and Gender</title>
+		<title level="j" type="abbrev">Violence and Gender</title>
+		<idno type="ISSN">2326-7836</idno>
+		<idno type="ISSNe">2326-7852</idno>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="issue">1</biblScope>
+			<biblScope unit="page" from="9" to="10" />
+			<date type="published" when="2014-03" />
+			<publisher>Mary Ann Liebert Inc</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title level="m" type="main">Dangerous Instincts: How gut feelings betray</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><forename type="middle">E</forename><surname>O'toole</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">A</forename><surname>Bowman</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2011" />
+			<publisher>Hudson Street Press</publisher>
+			<pubPlace>New York</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title level="m" type="main">[Investigations in dynamics of gauge theories in theoretical particle physics]. [Virginia Polytechnic Institute State Univ. , Blacksburg]</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Randazzo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">E</forename><surname>Plummer</surname></persName>
+		</author>
+		<idno type="DOI">10.2172/6749992</idno>
+		<imprint>
+			<date type="published" when="1993-01-01" />
+			<publisher>Office of Scientific and Technical Information (OSTI)</publisher>
+			<pubPlace>Blacksburg, Va</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>Virginia Polytechnic Institute and State University</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<analytic>
+		<title level="a" type="main">Behavioral Excellence</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Sokolow</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Lewis</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/9781118835531.ch10</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Project Management Best Practices</title>
+		<imprint>
+			<publisher>John Wiley &amp; Sons, Inc.</publisher>
+			<date type="published" when="2014-01-27" />
+			<biblScope unit="page" from="455" to="474" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Sokolow</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Lewis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">L</forename><surname>Manzo</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">S</forename><surname>Schuster</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><surname>Byrnes</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Van Brunt</surname></persName>
+		</author>
+		<ptr target="www.nabita.org" />
+		<title level="m">Book on BIT. A publication of the National Behavioral Intervention Team Association</title>
+		<imprint>
+			<date type="published" when="2011" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<analytic>
+		<title level="a" type="main">Prior Knowledge of Potential School-Based Violence: Information Students Learn May Prevent a Targeted Attack</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">William</forename><forename type="middle">S</forename><surname>Pollack</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">William</forename><surname>Modzeleski</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Georgeann</forename><surname>Rooney</surname></persName>
+		</author>
+		<idno type="DOI">10.1037/e684892012-001</idno>
+	</analytic>
+	<monogr>
+		<title level="m">United States Secret Services, and United States Department of Education</title>
+		<meeting><address><addrLine>Washington, DC</addrLine></address></meeting>
+		<imprint>
+			<publisher>American Psychological Association (APA)</publisher>
+			<date type="published" when="2008" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title level="a" type="main">Threat Assessment</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">James</forename><forename type="middle">T</forename><surname>Turner</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Michael</forename><surname>Gelles</surname></persName>
+		</author>
+		<idno type="DOI">10.4324/9780203725375</idno>
+		<ptr target="www.nalc.org/depart/cau/pdf/manuals/Pub%20108%20(2007-Mar).pdf" />
+	</analytic>
+	<monogr>
+		<title level="j">Risk Management Approach. NY, NY: Routledge. United States Postal Service</title>
+		<imprint>
+			<date type="published" when="2012-12-06" />
+			<publisher>Routledge</publisher>
+		</imprint>
+	</monogr>
+	<note>Threat Assessment: A</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<analytic>
+		<title level="a" type="main">Summary and Analyss of 2016 NaBITA Survey</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Brian</forename><surname>Van Brunt</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Amy</forename><surname>Murphy</surname></persName>
+		</author>
+		<idno type="DOI">10.17732/jbit2016/8</idno>
+		<ptr target="www.nabita.org" />
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Campus Behavioral Intervention</title>
+		<title level="j" type="abbrev">JBIT</title>
+		<idno type="ISSN">2380-1107</idno>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page" from="49" to="62" />
+			<date type="published" when="2016-11-01" />
+			<publisher>The NCHERM Group, LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title level="m" type="main">Ending Campus Violence</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Brian</forename><surname>Van Brunt</surname></persName>
+		</author>
+		<idno type="DOI">10.4324/9780203149560</idno>
+		<imprint>
+			<date type="published" when="2012-08-21" />
+			<publisher>Routledge</publisher>
+			<pubPlace>New York, NY</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<analytic>
+		<title level="a" type="main">A Comparative Analysis of Threat and Risk Assessment Measures</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Brian</forename><surname>Van Brunt</surname></persName>
+		</author>
+		<idno type="DOI">10.17732/jbit2013/7</idno>
+	</analytic>
+	<monogr>
+		<title level="j">The Journal of Campus Behavioral Intervention</title>
+		<title level="j" type="abbrev">JBIT</title>
+		<idno type="ISSN">2380-1107</idno>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page" from="111" to="151" />
+			<date type="published" when="2013-11-01" />
+			<publisher>The NCHERM Group, LLC</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">The Final Report and Findings of the Safe School Initiative: Implications for the prevention of school attacks in the United States</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Vossekuil</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Fein</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Reddy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Borum</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><surname>Modzeleski</surname></persName>
+		</author>
+		<ptr target="fromhttp://www.secretservice.gov/ntac/ssi_final_report.pdf" />
+		<imprint>
+			<date type="published" when="2002" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title level="m" type="main">USSS Safe School Initiative: An Interim Report on the Prevention of Targeted Violence in Schools</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">B</forename><surname>Vossekuil</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Reddy</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Fein</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">R</forename><surname>Borum</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">M</forename><surname>Modzeleski</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2000" />
+			<pubPlace>Washington, DC</pubPlace>
+		</imprint>
+		<respStmt>
+			<orgName>US Secret Service, National Threat Assessment Center</orgName>
+		</respStmt>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title level="m" type="main">He is recognized for his national leadership on systems-level solutions for safer schools and campuses. He serves frequently as an expert witness in all manner of litigation affecting colleges and universities. The NCHERM Group, LLC serves as outside counsel/advisor to more than fifty colleges and universities. Sokolow is a risk management consultant, author, editor, and higher education attorney licensed by the PA and NJ bars. In addition, Sokolow serves as Executive Director of both NaBITA (The National Behavioral Intervention Team Association) and ATIXA (The Association of Title IX Administrators)</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>About The Authors</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="middle">A</forename><surname>Brett</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">D</forename><surname>Sokolow</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Of The</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><surname>Group</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>LLC, a national multidisciplinary risk management consulting and law firm with more than 3,000 clients. He serves on the advisory boards of the National Hazing Prevention Collaborative and the NASPA Enough is Enough Campaign</note>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<analytic>
+		<title level="a" type="main">He serves as the 2013-2014 president of NaBITA, and is a founder and advisory board member of ATIXA. He is one of the most in-demand higher education risk management consultants in the country. Previously, he served as Special Advisor to Saint Mary&apos;s College in South Bend, IN and as AVP at the University of South Carolina, where he was also on faculty. Scott&apos;s faculty work includes courses in Education, Law, Political Science, and Business. Scott brings over twenty years of experience as a student affairs administrator, faculty member, and consultant in higher education</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">W</forename><forename type="middle">Scott</forename><surname>Lewis</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename><forename type="middle">D</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">is a partner with The NCHERM Group, LLC</title>
+		<imprint/>
+	</monogr>
+	<note>nationally recognized for his work on</note>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<title level="a" type="main">Consider Title IX issues before starting new construction projects</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Timothy</forename><surname>O'brien</surname></persName>
+		</author>
+		<idno type="DOI">10.1002/cala.30648</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Campus Legal Advisor</title>
+		<title level="j" type="abbrev">Campus Legal Advisor</title>
+		<idno type="ISSN">1531-3999</idno>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="issue">2</biblScope>
+			<biblScope unit="page" from="6" to="6" />
+			<date type="published" when="2017-09-18" />
+			<publisher>Wiley</publisher>
+		</imprint>
+	</monogr>
+	<note>He is noted as well for his work in the area of classroom management and dealing with disruptive students (and parents), and has trained thousands of faculty and staff members. campus conduct board training, and other higher education issues</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<analytic>
+		<title level="a" type="main">She is a founder and advisory board member of ATIXA, and a past-president and advisory board member of NaBITA. Ms. Schuster is a recognized expert in preventive and civil rights law for education, notably in the fields of: Sexual Misconduct and Harassment; First Amendment and Campus Access</title>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">Saundra</forename><surname>Schuster</surname></persName>
+		</author>
+		<author>
+			<persName xmlns="http://www.tei-c.org/ns/1.0"><forename type="first">J</forename></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">D is a Partner with The NCHERM Group, LLC</title>
+		<imprint/>
+	</monogr>
+	<note>Americans with Disabilities Act and Disability Issues. Student</note>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
